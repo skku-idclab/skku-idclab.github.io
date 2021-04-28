@@ -1,10 +1,7 @@
 <div class="publication" data-pub="{{ pub | jsonify | escape }}">
   <h3>
-    {% if pub.url %}<a href="{{ pub.url }}" target="_blank"
-      >{% endif %} {{ pub.title }} {% if pub.url %}</a
-    >{% endif %} {% if pub.type != 'Paper' %}<small class="badge"
-      >{{ pub.type }}</small
-    >{% endif %}
+    {% if pub.url %}<a href="{{ pub.url }}" target="_blank">{% endif %} {{ pub.title }} {% if pub.url %}</a>{% endif %}
+    {% if pub.type != 'Paper' %}<small class="badge">{{ pub.type }}</small>{% endif %}
   </h3>
   <div class="authors">
     {% for author in pub.authors %} {% if forloop.last and pub.authors.size >= 2
@@ -14,29 +11,28 @@
 
   {% if pub.proc %}
   <div class="proc calm">
-    {% if pub.proc.url %}<a href="{{ pub.proc.url }}" target="_blank"
-      >{% endif %} {{ pub.proc.title }} {%- if pub.proc.abbr -%}&nbsp;({{
-      pub.proc.abbr }}){% endif -%} {% if pub.proc.url -%}</a
-    >{%- endif -%} {% if pub.proc.ea -%}, to appear{% elsif pub.noinfo -%}{%
+    {% if pub.proc.url %}<a href="{{ pub.proc.url }}" target="_blank">{% endif %} {{ pub.proc.title }} {%- if
+      pub.proc.abbr -%}&nbsp;({{
+      pub.proc.abbr }}){% endif -%} {% if pub.proc.url -%}</a>{%- endif -%} {% if pub.proc.ea -%}, to appear{% elsif
+    pub.noinfo -%}{%
     else -%}, pp. {{ pub.proc.page }}, {{ pub.proc.venue }}{% endif %}, {{
     pub.year }}.
   </div>
   {% endif %} {% if pub.journal %}
   <div class="journal calm">
-    {% if pub.journal.url -%}<a href="{{ pub.journal.url }}" target="_blank"
-      >{% endif %} {{ pub.journal.title }} {%- if pub.journal.abbr -%}&nbsp;({{
-      pub.journal.abbr }}){% endif -%} {% if pub.journal.url -%}</a
-    >{% endif -%} {% if pub.journal.ea -%}, to appear{% elsif pub.noinfo -%}{%
-    else -%}, vol. {{ pub.journal.volume}}, no. {{ pub.journal.issue }}, pp. {{
+    {% if pub.journal.url -%}<a href="{{ pub.journal.url }}" target="_blank">{% endif %} {{ pub.journal.title }} {%- if
+      pub.journal.abbr -%}&nbsp;({{
+      pub.journal.abbr }}){% endif -%} {% if pub.journal.url -%}</a>{% endif -%} {% if pub.journal.ea -%}, to appear{%
+    elsif pub.noinfo -%}{%
+    else -%}, vol. {{ pub.journal.volume}}, {% if pub.journal.issue -%}no. {{ pub.journal.issue }}, {% endif -%} pp. {{
     pub.journal.page }}{% endif %}, {{ pub.year }}.
   </div>
   {% endif %} {% if pub.presented %}
   <div class="presented calm">
-    Presented in {% if pub.presented.url -%}<a href="{{ pub.presented.url }}"
-      >{% endif %}{{ pub.presented.title }} {%- if pub.presented.abbr
+    Presented in {% if pub.presented.url -%}<a href="{{ pub.presented.url }}">{% endif %}{{ pub.presented.title }} {%-
+      if pub.presented.abbr
       -%}&nbsp;({{ pub.presented.abbr }}){% endif -%} {%- if pub.presented.url
-      -%}</a
-    >{% endif %}, {{ pub.presented.venue }}, {{ pub.year }}.
+      -%}</a>{% endif %}, {{ pub.presented.venue }}, {{ pub.year }}.
   </div>
   {% endif %} {% if pub.type == 'Patent' %}
   <div class="calm">{{ pub.year }}.</div>

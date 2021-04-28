@@ -8,7 +8,9 @@
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG, Proc. InfoVis
-    ea: true
+    volume: 27
+    issue: 2
+    page: 1525-1535
     url: https://www.computer.org/csdl/journal/tg
   url: https://ieeexplore.ieee.org/document/9223736
   attrs:
@@ -27,8 +29,10 @@
     - Jinwook Seo
   journal:
     title: IEEE Access
-    ea: true
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
+    volume: 8
+    page: 133865-133881
+    url: https://www.computer.org/csdl/journal/tg
   url: https://ieeexplore.ieee.org/document/9145532
   attrs:
     - international
