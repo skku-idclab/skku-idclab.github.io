@@ -1,0 +1,20 @@
+- name: Jaemin Jo
+  website: https://www.jaeminjo.com/
+  github: https://github.com/e-
+  pic: /images/jmjo.jpg
+  email: jmjo@skku.edu
+  pos: Director
+
+
+- name: Jiwon Choi
+  website: https://www.jasonchoi.dev/
+  github: https://github.com/Jason-Choi-SKKU
+  pic: /images/jiwonchoi.jpg
+  email: jasonchoi3@g.skku.edu
+  pos: Undergraduate
+
+- name: Gwon Hong  
+  github: https://github.com/gwonhong
+  pic: /images/honggwon.png
+  email: hk98121@skku.edu
+  pos: Undergraduate

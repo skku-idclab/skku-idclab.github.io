@@ -4,14 +4,22 @@
   years:
     - 2021 Spring
 
+- title: Introduction to Human-Computer Interaction
+  target: Undergraduate
+  desc: "This course provides an introduction to and overview of the field of human-computer interaction (HCI). We learn to design, prototype, and evaluate user interfaces for computers upon the theories and methodologies from computer science, cognitive psychology, and human factors. Course materials include classic and recent research papers in HCI. We cover the following topics: human factors, usability, design thinking process, design principles, and experimental design."
+  years:
+    - 2021 Fall
+
 - title: Open-Source Software Practice
   target: Undergraduate
   desc: Open-source software has become an inevitable tech trend in software development. Even big IT companies, such as Microsoft, Google, Amazon, or Facebook, are actively participating in open-source projects, making their codes public and maintained by the open-source community.There are rules, technologies, tools, and cultures that young programmers must know before entering the open-source world. However, these topics are rarely covered in university classes and are usually left to students to figure out on their own. In this class, we will learn and practice such prerequisites for software engineers.
   years:
     - 2021 Spring
+    - 2021 Fall
 
 - title: Problem Solving
   target: Undergraduate
   desc: The objective of this course is to develop problem-solving skills using the C programming language. We will first cover the important concepts in the C programming language from the very basic syntax to its advanced usages. We will practice C programming skills by solving problems from real-world programming challenges. Having background knowledge about programming is recommended but not necessary. We will focus on practicing and improving your programming skills rather than learning complex algorithms.
   years:
     - 2020 Fall
+    - 2021 Fall

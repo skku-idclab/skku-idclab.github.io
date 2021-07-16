@@ -1,0 +1,19 @@
+<div class="text-center person">
+  <img src="{{ person.pic }}" height="160">
+
+  <div class="name">{{ person.name }}</div>
+  <div class="pos">{{ person.pos }}</div>
+  <div class="email">{{ person.email }}</div>
+
+  <div class="text-center">
+    {% if person.website %}
+    <a href="{{ person.website }}" style="margin:0 .25rem;" target="_blank"><i class="fas fa-home"
+        aria-hidden="true"></i> Website</a>
+    {% endif %}
+    {% if person.github %}
+    <a href="{{ person.github }}" style="margin:0 .25rem;" target="_blank"><i class="fab fa-github"
+        aria-hidden="true"></i> Github</a>
+    {% endif %}
+
+  </div>
+</div>
