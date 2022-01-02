@@ -9,9 +9,10 @@ order: 1
 {% assign people = site.data.people %}
 
 {% assign dir = people | where: 'pos', "Director" %}
-{% assign phd = people | where: "pos", "Phd" %}
-{% assign ms = people | where: "pos", "Master" %}
-{% assign ud = people | where: "pos", "Undergraduate" %}
+{% assign phd = people | where: "pos", "Phd" | where_exp: "s", "s.alum != true" %}
+{% assign ms = people | where: "pos", "Master" | where_exp: "s", "s.alum != true" %}
+{% assign ud = people | where: "pos", "Undergraduate" | where_exp: "s", "s.alum != true" %}
+{% assign al = people | where_exp: "s", "s.alum == true" %}
 
 <h3 class="mt-1">Director</h3>
 <div class="d-flex">
@@ -48,4 +49,13 @@ order: 1
 {% endif %}
 
 </div>
+
+{% if al.size > 0%}
+<h3 class="mt-1">Alumni</h3>
+<ul class="d-flex">
+{% for person in al %}
+<li>{{ person.name }} ({{ person.pos }})</li>
+{% endfor %}
+</ul>
+{% endif %}
 </section>
