@@ -5,7 +5,6 @@
   email: jmjo@skku.edu
   pos: Director
 
-
 - name: Jiwon Choi
   website: https://www.jasonchoi.dev/
   github: https://github.com/Jason-Choi-SKKU
@@ -13,7 +12,17 @@
   email: jasonchoi3@g.skku.edu
   pos: Undergraduate
 
-- name: Gwon Hong  
+- name: Myeongwon Jung
+  pic: /images/mwj.jpg
+  email: mw8244@g.skku.edu
+  pos: Undergraduate
+
+- name: Donghoon Jang
+  pic: /images/dhj.jpg
+  email: dslr.jang@samsung.com
+  pos: Master
+
+- name: Gwon Hong
   github: https://github.com/gwonhong
   pic: /images/honggwon.png
   email: hk98121@skku.edu
