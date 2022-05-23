@@ -22,6 +22,11 @@
   email: dslr.jang@samsung.com
   pos: Master
 
+- name: Kwangmin Lee
+  pic: /images/kmlee.jpg
+  email: tomasaq98@g.skku.edu
+  pos: Undergraduate
+
 - name: Gwon Hong
   github: https://github.com/gwonhong
   pic: /images/honggwon.png

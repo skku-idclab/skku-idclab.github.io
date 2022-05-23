@@ -9,7 +9,7 @@ order: 5
 </div>
 
 <p class="mt-2">
-Address: Room #27326, Bldg. #27 (The second engineering building, 제2공학관), Seobu-ro 2066, Jangan-gu, Suwon, Gyeonggi-do, 16419
+Address: Room #26316, Bldg. #26 (The second engineering building, 제2공학관), Seobu-ro 2066, Jangan-gu, Suwon, Gyeonggi-do, 16419
 </p>
 <p>
 If you have any inquiries about admission, please contact Jaemin Jo (jmjo@skku.edu).

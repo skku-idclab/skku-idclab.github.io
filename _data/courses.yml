@@ -3,12 +3,14 @@
   desc: With the advances in data storing and processing technologies, the size of data humans confront is increasing at an unprecedented rate. Despite the ever-increasing data size, our perceptual and cognitive abilities stay relatively unchanged, leading to an information gap between humans and data. Information visualization provides one means of addressing such information overload, as well-designed visual representations can assist our perceptual and cognitive abilities to understand, analyze, and memorize the data. In this course, students will learn to 1) design, evaluate, and critique visualization designs, 2) comprehend the characteristics of humans' perception that underpin visualization, 3) understand novel visualization and interaction techniques, and 4) implement interactive data visualizations.
   years:
     - 2021 Spring
+    - 2022 Spring
 
 - title: Introduction to Human-Computer Interaction
   target: Undergraduate
   desc: "This course provides an introduction to and overview of the field of human-computer interaction (HCI). We learn to design, prototype, and evaluate user interfaces for computers upon the theories and methodologies from computer science, cognitive psychology, and human factors. Course materials include classic and recent research papers in HCI. We cover the following topics: human factors, usability, design thinking process, design principles, and experimental design."
   years:
     - 2021 Fall
+    - 2022 Fall
 
 - title: Open-Source Software Practice
   target: Undergraduate
@@ -23,3 +25,5 @@
   years:
     - 2020 Fall
     - 2021 Fall
+    - 2022 Spring
+    - 2022 Fall
