@@ -1,6 +1,93 @@
+- id: sizepairs
+  title: "SizePairs: Achieving Stable and Balanced Temporal Treemaps using Hierarchical Size-based Pairing"
+  year: 2022
+  authors:
+    - Chang Han
+    - Anyi Li
+    - Jaemin Jo
+    - Bongshin Lee 
+    - Oliver Deussen 
+    - Yunhai Wang
+  journal:
+    title: IEEE Transactions on Visualization and Computer Graphics
+    abbr: TVCG, Proc. IEEE VIS 2022, 122 / 460 = 26.5%
+    url: http://ieeevis.org/year/2022/welcome
+    volume: 1
+    page: 1-1 (to appear)
+  # url: https://ieeexplore.ieee.org/abstract/document/8933670
+  attrs:
+    - international
+    - journal
+    - paper
+  type: Paper
+
+- id: intentable
+  title: "Intentable: A Mixed-Initiative System for Intent-Based Chart Captioning"
+  year: 2022
+  authors:
+    - Jiwon Choi
+    - Jaemin Jo
+  proc:
+    title: Proceedings of IEEE VIS 2022
+    abbr: IEEE VIS 2022 Short
+    url: http://ieeevis.org/year/2022/welcome
+    venue: Oklahoma City, USA
+    page: 1-1 (to appear)
+  # url: https://ieeexplore.ieee.org/abstract/document/8933670
+  attrs:
+    - international
+    - paper
+  type: Paper
+
+- id: umato
+  title: "Uniform Manifold Approximation with Two-phase Optimization"
+  year: 2022
+  authors:
+    - Hyeon Jeon 
+    - Hyung-Kwon Ko
+    - Soohyun Lee
+    - Jaemin Jo 
+    - Jinwook Seo
+  proc:
+    title: Proceedings of IEEE VIS 2022
+    abbr: IEEE VIS 2022 Short
+    url: http://ieeevis.org/year/2022/welcome
+    venue: Oklahoma City, USA
+    page: 1-1 (to appear)
+  # url: https://ieeexplore.ieee.org/abstract/document/8933670
+  attrs:
+    - international
+    - paper
+  type: Paper
+
+- id: wetoon
+  title: "We-toon: A Communication Support System between Writers and Artists in Collaborative Webtoon Sketch Revision"
+  year: 2022
+  authors:
+    - Hyung-Kwon Ko 
+    - Subin An
+    - Gwanmo Park
+    - Seung Kwon Kim
+    - Daesik Kim 
+    - Bohyoung Kim
+    - Jaemin Jo
+    - Jinwook Seo
+  proc:
+    title: Proceedings of the 35th ACM User Interface Software and Technology Symposium
+    abbr: UIST 2022
+    url: https://uist.acm.org/uist2022/
+    page: 1-1 (to appear)
+    venue: Oregon, USA
+  # url: https://dl.acm.org/citation.cfm?id=2984571
+  attrs:
+    - international
+    - conference
+    - paper
+  type: Paper
+
 - id: rcmvis
   title: "RCMVis: A Visual Analytics System for Route Choice Modeling"
-  year: 2021
+  year: 2022
   authors:
     - Donghwa Shin
     - Jaemin Jo
