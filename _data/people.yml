@@ -5,26 +5,32 @@
   email: jmjo@skku.edu
   pos: Director
 
+- name: Donghoon Jang
+  pic: /images/dhj.jpg
+  email: dslr.jang@samsung.com
+  pos: Master
+
 - name: Jiwon Choi
   website: https://www.jasonchoi.dev/
   github: https://github.com/Jason-Choi-SKKU
   pic: /images/jiwonchoi.jpg
   email: jasonchoi3@g.skku.edu
-  pos: Undergraduate
+  pos: Master
 
 - name: Myeongwon Jung
   pic: /images/mwj.jpg
   email: mw8244@g.skku.edu
   pos: Undergraduate
 
-- name: Donghoon Jang
-  pic: /images/dhj.jpg
-  email: dslr.jang@samsung.com
-  pos: Master
-
 - name: Kwangmin Lee
   pic: /images/kmlee.jpg
   email: tomasaq98@g.skku.edu
+  pos: Undergraduate
+
+- name: Donghee Hong
+  website: https://sth49.github.io/
+  pic: /images/dhh.jpg
+  email: hdh12345@g.skku.edu
   pos: Undergraduate
 
 - name: Gwon Hong
