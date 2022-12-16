@@ -22,10 +22,6 @@
   email: mw8244@g.skku.edu
   pos: Undergraduate
 
-- name: Kwangmin Lee
-  pic: /images/kmlee.jpg
-  email: tomasaq98@g.skku.edu
-  pos: Undergraduate
 
 - name: Donghee Hong
   website: https://sth49.github.io/
@@ -33,9 +29,25 @@
   email: hdh12345@g.skku.edu
   pos: Undergraduate
 
+- name: Seonghyeon Cho
+  website: http://willki.dev
+  github: https://github.com/st42597
+  pic: /images/csh.jpg
+  email: st42597@g.skku.edu
+  pos: Undergraduate
+
+
+- name: Kwangmin Lee
+  pic: /images/kmlee.jpg
+  email: tomasaq98@g.skku.edu
+  pos: Undergraduate
+  alum: true
+
+
 - name: Gwon Hong
   github: https://github.com/gwonhong
   pic: /images/honggwon.png
   email: hk98121@skku.edu
   pos: Undergraduate
   alum: true
+

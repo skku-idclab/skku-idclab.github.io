@@ -52,7 +52,7 @@ order: 1
 
 {% if al.size > 0%}
 <h3 class="mt-1">Alumni</h3>
-<ul class="d-flex">
+<ul>
 {% for person in al %}
 <li>{{ person.name }} ({{ person.pos }})</li>
 {% endfor %}
