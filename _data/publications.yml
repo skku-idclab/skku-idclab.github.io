@@ -12,9 +12,10 @@
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG, Proc. IEEE VIS 2022, 122 / 460 = 26.5%
     url: http://ieeevis.org/year/2022/welcome
-    volume: 1
-    page: 1-1 (to appear)
-  # url: https://ieeexplore.ieee.org/abstract/document/8933670
+    volume: 29
+    issue: 1
+    page: 193-202
+  url: https://ieeexplore.ieee.org/document/9904436
   attrs:
     - international
     - journal
@@ -32,8 +33,8 @@
     abbr: IEEE VIS 2022 Short
     url: http://ieeevis.org/year/2022/welcome
     venue: Oklahoma City, USA
-    page: 1-1 (to appear)
-  # url: https://ieeexplore.ieee.org/abstract/document/8933670
+    # page: -1 (to appear)
+  url: https://ieeexplore.ieee.org/document/9973198
   attrs:
     - international
     - paper
@@ -53,8 +54,8 @@
     abbr: IEEE VIS 2022 Short
     url: http://ieeevis.org/year/2022/welcome
     venue: Oklahoma City, USA
-    page: 1-1 (to appear)
-  # url: https://ieeexplore.ieee.org/abstract/document/8933670
+    # page: 1-1 (to appear)
+  url: https://ieeexplore.ieee.org/abstract/document/9973206
   attrs:
     - international
     - paper
@@ -76,9 +77,9 @@
     title: Proceedings of the 35th ACM User Interface Software and Technology Symposium
     abbr: UIST 2022
     url: https://uist.acm.org/uist2022/
-    page: 1-1 (to appear)
+    # page: 1-1 (to appear)
     venue: Oregon, USA
-  # url: https://dl.acm.org/citation.cfm?id=2984571
+  url: https://dl.acm.org/doi/fullHtml/10.1145/3526113.3545612
   attrs:
     - international
     - conference
@@ -120,7 +121,8 @@
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG, Proc. IEEE VIS 2021, 114 / 442 = 25.8%
     url: http://ieeevis.org/year/2021/welcome
-    volume: 1
+    volume: 28
+    issue: 1
     page: 623-632
   url: https://ieeexplore.ieee.org/document/9552433
   attrs:
@@ -142,7 +144,8 @@
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG, Proc. IEEE VIS 2021, 114 / 442 = 25.8%
     url: http://ieeevis.org/year/2021/welcome
-    volume: 1
+    volume: 28
+    issue: 1
     page: 551-561
   url: https://ieeexplore.ieee.org/document/9552206
   attrs:
