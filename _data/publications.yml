@@ -1,3 +1,25 @@
+- id: ltgm
+  title: "Large-scale Text-to-Image Generation Models for Visual Artists' Creative Works"
+  year: 2023
+  authors:
+    - Hyung-Kwon Ko
+    - Gwanmo Park
+    - Hyeon Jeon
+    - Jaemin Jo
+    - Juho Kim
+    - Jinwook Seo
+  proc:
+    title: Proceedings of ACM IUI 2023 (to appear)
+    # abbr: ACM IUI 2023
+    url: https://iui.acm.org/2023/
+    venue: Sydney, Australia
+    # page: 
+  url: https://arxiv.org/abs/2210.08477
+  attrs:
+    - international
+    - paper
+  type: Paper
+
 - id: sizepairs
   title: "SizePairs: Achieving Stable and Balanced Temporal Treemaps using Hierarchical Size-based Pairing"
   year: 2022
