@@ -20,7 +20,7 @@
 - name: Myeongwon Jung
   pic: /images/mwj.jpg
   email: mw8244@g.skku.edu
-  pos: Undergraduate
+  pos: Master
 
 
 - name: Donghee Hong
@@ -36,6 +36,17 @@
   email: st42597@g.skku.edu
   pos: Undergraduate
 
+- name: Minji Park
+  website: https://minji-dev.github.io/
+  github: https://github.com/minji-dev
+  pic: /images/mjp.jpg
+  email: mj.park@g.skku.edu
+  pos: Undergraduate
+
+- name: Nicola Poell
+  pic: /images/np.png
+  email: nicola.poell@rwth-aachen.de
+  pos: Visiting Student
 
 - name: Kwangmin Lee
   pic: /images/kmlee.jpg

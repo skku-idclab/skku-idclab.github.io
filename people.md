@@ -12,6 +12,7 @@ order: 1
 {% assign phd = people | where: "pos", "Phd" | where_exp: "s", "s.alum != true" %}
 {% assign ms = people | where: "pos", "Master" | where_exp: "s", "s.alum != true" %}
 {% assign ud = people | where: "pos", "Undergraduate" | where_exp: "s", "s.alum != true" %}
+{% assign vs = people | where: "pos", "Visiting Student" | where_exp: "s", "s.alum != true" %}
 {% assign al = people | where_exp: "s", "s.alum == true" %}
 
 <h3 class="mt-1">Director</h3>
@@ -43,6 +44,16 @@ order: 1
 <h3 class="mt-1">Undergraduate Students</h3>
 <div class="d-flex">
 {% for person in ud %}
+{% include person.html person = person %}
+{% endfor %}
+</div>
+{% endif %}
+
+
+{% if vs.size > 0%}
+<h3 class="mt-1">Visiting Students</h3>
+<div class="d-flex">
+{% for person in vs %}
 {% include person.html person = person %}
 {% endfor %}
 </div>
