@@ -4,6 +4,8 @@
   years:
     - 2021 Spring
     - 2022 Spring
+    - 2023 Spring
+    - 2023 Fall
 
 - title: Introduction to Human-Computer Interaction
   target: Undergraduate
@@ -11,6 +13,7 @@
   years:
     - 2021 Fall
     - 2022 Fall
+    - 2023 Fall
 
 - title: Open-Source Software Practice
   target: Undergraduate
@@ -27,3 +30,4 @@
     - 2021 Fall
     - 2022 Spring
     - 2022 Fall
+    - 2023 Fall
