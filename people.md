@@ -62,7 +62,7 @@ order: 1
 </div>
 
 {% if al.size > 0%}
-<h3 class="mt-1">Alumni</h3>
+<h3 class="mt-1">Former Students</h3>
 <ul>
 {% for person in al %}
 <li>{{ person.name }} ({{ person.pos }})</li>

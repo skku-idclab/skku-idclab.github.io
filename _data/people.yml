@@ -9,6 +9,7 @@
   pic: /images/dhj.jpg
   email: dslr.jang@samsung.com
   pos: Master
+  alum: true
 
 - name: Jiwon Choi
   website: https://www.jasonchoi.dev/
@@ -47,6 +48,7 @@
   pic: /images/np.png
   email: nicola.poell@rwth-aachen.de
   pos: Visiting Student
+  alum: true
 
 - name: Kwangmin Lee
   pic: /images/kmlee.jpg

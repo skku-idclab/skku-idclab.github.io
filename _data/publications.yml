@@ -1,3 +1,44 @@
+- id: ensemble
+  title: "Projection Ensemble: Visualizing the Robust Structures of Multidimensional Projections"
+  year: 2023
+  authors:
+    - Myeongwon Jung
+    - Jiwon choi
+    - Jaemin Jo
+  proc:
+    title: Proceedings of IEEE VIS 2023
+    abbr: IEEE VIS 2023 Short, to appear
+    url: http://ieeevis.org/year/2023/welcome
+    venue: Melbourne, Australia
+  # url: https://ieeexplore.ieee.org/document/9973198
+  attrs:
+    - international
+    - paper
+  type: Paper
+
+- id: zadu
+  title: "A Python Library for Evaluating the Reliability of Dimensionality Reduction Embeddings"
+  year: 2023
+  authors:
+    - Hyeon Jeon
+    - Aeri Cho
+    - Jinhwa Jang
+    - Soohyun Lee
+    - Jake Hyun
+    - Hyung-Kwon Ko
+    - Jaemin Jo
+    - Jinwook Seo
+  proc:
+    title: Proceedings of IEEE VIS 2023
+    abbr: IEEE VIS 2023 Short, to appear
+    url: http://ieeevis.org/year/2023/welcome
+    venue: Melbourne, Australia
+  # url: https://ieeexplore.ieee.org/document/9973198
+  attrs:
+    - international
+    - paper
+  type: Paper
+
 - id: ltgm
   title: "Large-scale Text-to-Image Generation Models for Visual Artists' Creative Works"
   year: 2023
@@ -9,12 +50,12 @@
     - Juho Kim
     - Jinwook Seo
   proc:
-    title: Proceedings of ACM IUI 2023 (to appear)
-    # abbr: ACM IUI 2023
+    title: Proceedings of ACM Annual Conference on Intelligent User Interfaces 2023
+    abbr: ACM IUI 2023
     url: https://iui.acm.org/2023/
     venue: Sydney, Australia
-    # page: 
-  url: https://arxiv.org/abs/2210.08477
+    page: 919-933
+  url: https://dl.acm.org/doi/fullHtml/10.1145/3581641.3584078
   attrs:
     - international
     - paper
