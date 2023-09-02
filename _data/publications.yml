@@ -17,7 +17,7 @@
   type: Paper
 
 - id: zadu
-  title: "A Python Library for Evaluating the Reliability of Dimensionality Reduction Embeddings"
+  title: "ZADU: A Python Library for Evaluating the Reliability of Dimensionality Reduction Embeddings"
   year: 2023
   authors:
     - Hyeon Jeon
