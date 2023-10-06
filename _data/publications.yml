@@ -8,9 +8,9 @@
   proc:
     title: Proceedings of IEEE VIS 2023
     abbr: IEEE VIS 2023 Short, to appear
-    url: /assets/ProjectionEnsemble.pdf
+    url: http://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
-  # url: https://ieeexplore.ieee.org/document/9973198
+  url: /assets/ProjectionEnsemble.pdf
   attrs:
     - international
     - paper
