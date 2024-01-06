@@ -3,7 +3,7 @@
   year: 2023
   authors:
     - Myeongwon Jung
-    - Jiwon choi
+    - Jiwon Choi
     - Jaemin Jo
   proc:
     title: Proceedings of IEEE VIS 2023
@@ -33,7 +33,7 @@
     abbr: IEEE VIS 2023 Short, to appear
     url: http://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
-  # url: https://ieeexplore.ieee.org/document/9973198
+    url: https://ieeexplore.ieee.org/document/10360886
   attrs:
     - international
     - paper
