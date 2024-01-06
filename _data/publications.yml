@@ -33,7 +33,8 @@
     abbr: IEEE VIS 2023 Short, to appear
     url: http://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
-    url: https://ieeexplore.ieee.org/document/10360886
+    url: http://ieeevis.org/year/2023/welcome
+  url: https://ieeexplore.ieee.org/document/10360886
   attrs:
     - international
     - paper
