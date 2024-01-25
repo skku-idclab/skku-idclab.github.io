@@ -27,15 +27,14 @@
 - name: Donghee Hong
   website: https://sth49.github.io/
   pic: /images/dhh.jpg
-  email: hdh12345@g.skku.edu
-  pos: Undergraduate
+  email: dh.hong@skku.edu
+  pos: Master
 
 - name: Seonghyeon Cho
-  website: http://willki.dev
   github: https://github.com/st42597
   pic: /images/csh.jpg
   email: st42597@g.skku.edu
-  pos: Undergraduate
+  pos: Master
 
 - name: Minji Park
   website: https://minji-dev.github.io/
