@@ -3,21 +3,21 @@
   year: 2023
   authors:
     - Myeongwon Jung
-    - Jiwon choi
+    - Jiwon Choi
     - Jaemin Jo
   proc:
     title: Proceedings of IEEE VIS 2023
     abbr: IEEE VIS 2023 Short, to appear
     url: http://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
-  # url: https://ieeexplore.ieee.org/document/9973198
+  url: /assets/ProjectionEnsemble.pdf
   attrs:
     - international
     - paper
   type: Paper
 
 - id: zadu
-  title: "A Python Library for Evaluating the Reliability of Dimensionality Reduction Embeddings"
+  title: "ZADU: A Python Library for Evaluating the Reliability of Dimensionality Reduction Embeddings"
   year: 2023
   authors:
     - Hyeon Jeon
@@ -33,7 +33,8 @@
     abbr: IEEE VIS 2023 Short, to appear
     url: http://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
-  # url: https://ieeexplore.ieee.org/document/9973198
+    url: http://ieeevis.org/year/2023/welcome
+  url: https://ieeexplore.ieee.org/document/10360886
   attrs:
     - international
     - paper

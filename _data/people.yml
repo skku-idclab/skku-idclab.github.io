@@ -12,10 +12,10 @@
   alum: true
 
 - name: Jiwon Choi
-  website: https://www.jasonchoi.dev/
-  github: https://github.com/Jason-Choi
+  website: https://jiwnchoi.me
+  github: https://github.com/jiwnchoi
   pic: /images/jiwonchoi.png
-  email: jasonchoi3@g.skku.edu
+  email: jiwnchoi@skku.edu
   pos: Master
 
 - name: Myeongwon Jung
@@ -26,11 +26,10 @@
 - name: Donghee Hong
   website: https://sth49.github.io/
   pic: /images/dhh.jpg
-  email: hdh12345@g.skku.edu
+  email: dh.hong@skku.edu
   pos: Master
 
 - name: Seonghyeon Cho
-  website: http://willki.dev
   github: https://github.com/st42597
   pic: /images/csh.jpg
   email: st42597@g.skku.edu
