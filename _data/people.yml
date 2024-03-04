@@ -23,12 +23,11 @@
   email: mw8244@g.skku.edu
   pos: Master
 
-
 - name: Donghee Hong
   website: https://sth49.github.io/
   pic: /images/dhh.jpg
   email: hdh12345@g.skku.edu
-  pos: Undergraduate
+  pos: Master
 
 - name: Seonghyeon Cho
   website: http://willki.dev
@@ -36,12 +35,18 @@
   pic: /images/csh.jpg
   email: st42597@g.skku.edu
   pos: Undergraduate
+  alum: true
 
 - name: Minji Park
   website: https://minji-dev.github.io/
   github: https://github.com/minji-dev
   pic: /images/mjp.jpg
   email: mj.park@g.skku.edu
+  pos: Undergraduate
+
+- name: Jaeung Lee  
+  pic: /images/jul.png
+  email: dlwodnd00@o365.skku.edu
   pos: Undergraduate
 
 - name: Nicola Poell
