@@ -1,3 +1,39 @@
+- id: bavisitter
+  title: "Bavisitter: Integrating Design Guidelines into Large Language Models for Visualization Authoring"
+  year: 2024
+  authors:    
+    - Jiwon Choi
+    - Jaeung Lee
+    - Jaemin Jo
+  proc:
+    title: Proceedings of IEEE VIS 2024
+    abbr: IEEE VIS 2024 Short, to appear
+    url: http://ieeevis.org/year/2024/welcome
+    venue: Virtual
+  url: /assets/Bavisitter.pdf
+  attrs:
+    - international
+    - paper
+  type: Paper
+
+- id: ghostumap
+  title: "GhostUMAP: Measuring Pointwise Instability in Dimensionality Reduction"
+  year: 2024
+  authors:    
+    - Myeongwon Jung
+    - Takanori Fujiwara
+    - Jaemin Jo
+  proc:
+    title: Proceedings of IEEE VIS 2024
+    abbr: IEEE VIS 2024 Short, to appear
+    url: http://ieeevis.org/year/2024/welcome
+    venue: Virtual
+  url: /assets/GhostUMAP.pdf
+  attrs:
+    - international
+    - paper
+  type: Paper
+
 - id: ensemble
   title: "Projection Ensemble: Visualizing the Robust Structures of Multidimensional Projections"
   year: 2023
@@ -7,7 +43,7 @@
     - Jaemin Jo
   proc:
     title: Proceedings of IEEE VIS 2023
-    abbr: IEEE VIS 2023 Short, to appear
+    abbr: IEEE VIS 2023 Short
     url: http://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
   url: /assets/ProjectionEnsemble.pdf
@@ -30,7 +66,7 @@
     - Jinwook Seo
   proc:
     title: Proceedings of IEEE VIS 2023
-    abbr: IEEE VIS 2023 Short, to appear
+    abbr: IEEE VIS 2023 Short
     url: http://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
     url: http://ieeevis.org/year/2023/welcome
