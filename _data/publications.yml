@@ -1,3 +1,26 @@
+- id: IDP
+  title: "Visualization-Driven Illumination for Density Plots"
+  year: 2024
+  authors:    
+    - Xin Chen
+    - Yunhai Wang
+    - Huaiwei Bao
+    - Kecheng Lu
+    - Jaemin Jo
+    - Chi-Wing Fu
+    - Jean-Daniel Fekete      
+  journal:
+    title: IEEE Transactions on Visualization and Computer Graphics
+    abbr: TVCG    
+    page: 1-14
+    ea: true
+  url: https://ieeexplore.ieee.org/abstract/document/10750222
+  attrs:
+    - international
+    - journal
+    - paper
+  type: Paper
+
 - id: bavisitter
   title: "Bavisitter: Integrating Design Guidelines into Large Language Models for Visualization Authoring"
   year: 2024
@@ -188,7 +211,7 @@
 
 - id: rcmvis
   title: "RCMVis: A Visual Analytics System for Route Choice Modeling"
-  year: 2022
+  year: 2023
   authors:
     - Donghwa Shin
     - Jaemin Jo
@@ -200,8 +223,9 @@
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG
     url: http://ieeevis.org/year/2021/welcome
-    volume: 1
-    page: 1-1 (early access)
+    issue: 3
+    volume: 29
+    page: 1799-1817
   url: https://ieeexplore.ieee.org/document/9632413
   attrs:
     - international
