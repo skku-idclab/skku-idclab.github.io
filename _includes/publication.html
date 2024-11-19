@@ -36,6 +36,10 @@
   </div>
   {% endif %} {% if pub.type == 'Patent' %}
   <div class="calm">{{ pub.year }}.</div>
+  {% endif %} {% if pub.type == 'Book Chapter' %}
+  <div class="bookchapter calm">
+    <a href="{{ pub.url }}" target="_blank"><em>{{ pub.book.title }}</em> by {{ pub.book.editor }}</a>, {{ pub.year }}.
+  </div>
   {% endif %} {% assign proj2 = site.data.projects | where: "id", pub.id %} {%
   assign proj = proj2[0] %} {% include extra_links.html proj=proj %}
 </div>

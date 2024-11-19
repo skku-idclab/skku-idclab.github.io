@@ -1,3 +1,18 @@
+- id: PDAV
+  title: "Chapter 5. Visualization"
+  year: 2024
+  authors:    
+    - Marco Angelini
+    - Jaemin Jo
+  book:
+    title: "Progressive Data Analysis: Roadmap and Research Agenda"
+    editor: Jean-Daniel Fekete, Danyel Fisher, and Michael Sedlmair
+  url: https://www.aviz.fr/Progressive/PDABook
+  attrs:
+    - international
+    - book
+  type: "Book Chapter"
+
 - id: IDP
   title: "Visualization-Driven Illumination for Density Plots"
   year: 2024

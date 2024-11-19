@@ -15,6 +15,11 @@ order: 3
 {% assign sorted = year.items | sort: "index" %}
 
 <div class="pt-1">
+{% assign bookchapters = sorted | where: 'type', "Book Chapter" %}
+{% for pub in bookchapters %}
+{% include publication.html pub = pub %}
+{% endfor %}
+
 {% assign papers = sorted | where: 'type', "Paper" %}
 {% for pub in papers %}
 {% include publication.html pub = pub %}
