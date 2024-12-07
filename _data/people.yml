@@ -21,7 +21,7 @@
 - name: Myeongwon Jung
   pic: /images/mwj.jpg
   email: mw8244@g.skku.edu
-  pos: Master
+  pos: Phd
 
 - name: Donghee Hong
   website: https://sth49.github.io/
@@ -55,6 +55,13 @@
   pic: /images/jul.png
   email: dlwodnd00@o365.skku.edu
   pos: Master
+
+- name: Seonghoon Jung
+  pic: /images/shj.jpg
+  email: shoon125@g.skku.edu
+  pos: Undergraduate
+
+
 
 - name: Nicola Poell
   pic: /images/np.png
