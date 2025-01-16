@@ -36,7 +36,10 @@
 - title: Fundamentals of Machine Learning
   target: Undergraduate
   desc: This course provides an introduction to the fundamental concepts and algorithms of machine learning. We will cover the basic concepts of machine learning, including supervised methods, such as linear regression, SVM, and neural networks as well as unsupervised ones, such as clustering and dimensionality reduction. We will also discuss the theoretical aspects of machine learning, such as bias-variance tradeoff, overfitting, and generalization.
-
+  years:
+    - 2024 Fall
+    - 2025 Spring
+    - 2025 Fall
 
 - title: Open-Source Software Practice
   target: Undergraduate
