@@ -1,3 +1,21 @@
+- id: waltzboard
+  title: Waltaboard
+  desc: An automatic search of multi-criteria dashboard designs with Waltzboard
+  teaser: /images/waltzboard.png
+  selected: true
+
+- id: ghostumap
+  title: GhostUMAP
+  desc: How much is your projection affected by stochasticity? Check it with GhostUMAP
+  teaser: /images/ghostumap.jpg
+  selected: true
+
+- id: bavisitter
+  title: Bavisitter
+  desc: \"Babysitting\" LLM\'s ability for visualization authoring with Bavisitter
+  teaser: /images/bavisitter.jpg
+  selected: true
+
 - id: pumap
   title: Progressive Uniform Manifold Approximation and Projection
   pdf: /assets/PUMAP.pdf
@@ -11,11 +29,11 @@
 
 - id: proreveal
   title: ProReveal
-  pdf: /assets/ProReveal.pdf
-  code: https://github.com/proreveal/ProReveal
+  # pdf: /assets/ProReveal.pdf
+  # code: https://github.com/proreveal/ProReveal
   teaser: /images/ProReveal.png
   desc: A new progressive visual analytics concept by leaving safeguards on uncertain intermediate knowledge
-  video: https://www.youtube.com/watch?v=RuIGrVyhciM
+  # video: https://www.youtube.com/watch?v=RuIGrVyhciM
   selected: true
 
 - id: autotator
@@ -32,7 +50,7 @@
   code: https://github.com/e-/Disentangling-Scatterplots
   teaser: /images/disentangling.png
   desc: A β-VAE model trained to disentangle scatterplot images.
-  selected: true
+  # selected: true
 
 - id: mdm
   title: Multiclass Maps
@@ -44,7 +62,7 @@
   teaser: /images/Multiclass_Density_Maps.png
   npm: https://www.npmjs.com/package/multiclass-density-maps
   desc: A declarative model for describing and rendering various multiclass density maps.
-  selected: true
+  # selected: true
 
 - id: touchpivot
   title: TouchPivot
@@ -62,7 +80,7 @@
   code: https://github.com/e-/PANENE
   teaser: images/rtsne.png
   desc: PANENE is a progressive algorithm for approximate nearest neighbor indexing and querying.
-  selected: true
+  # selected: true
 
 - id: swifttuna
   title: SwiftTuna
