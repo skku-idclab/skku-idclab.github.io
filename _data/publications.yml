@@ -1,3 +1,20 @@
+- id: waltzboard
+  title: "Waltzboard: Multi-Criteria Automated Dashboard Design for Exploratory Analysis"
+  year: 2025
+  authors:    
+    - Jiwon Choi    
+    - Jaemin Jo
+  proc:
+    title: Proceedings of IEEE PacificVis 2025
+    # abbr: IEEE PacificVis 2025
+    url: https://pacificvis2025.github.io/pages/index.html
+    venue: Taipei, Taiwan
+  url: /assets/Waltzboard.pdf
+  attrs:
+    - international
+    - paper
+  type: Paper
+
 - id: PDAV
   title: "Chapter 5. Visualization"
   year: 2024
@@ -27,8 +44,9 @@
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG    
-    page: 1-14
-    ea: true
+    issue: 2
+    volume: 31
+    page: 1631-1644
   url: https://ieeexplore.ieee.org/abstract/document/10750222
   attrs:
     - international
@@ -45,7 +63,7 @@
     - Jaemin Jo
   proc:
     title: Proceedings of IEEE VIS 2024
-    abbr: IEEE VIS 2024 Short, to appear
+    abbr: IEEE VIS 2024 Short
     url: http://ieeevis.org/year/2024/welcome
     venue: Virtual
   url: /assets/Bavisitter.pdf
@@ -63,7 +81,7 @@
     - Jaemin Jo
   proc:
     title: Proceedings of IEEE VIS 2024
-    abbr: IEEE VIS 2024 Short, to appear
+    abbr: IEEE VIS 2024 Short
     url: http://ieeevis.org/year/2024/welcome
     venue: Virtual
   url: /assets/GhostUMAP.pdf
