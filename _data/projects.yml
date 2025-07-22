@@ -1,13 +1,13 @@
-- id: waltzboard
-  title: Waltzboard
-  desc: An automatic search of multi-criteria dashboard designs with Waltzboard
-  teaser: /images/waltzboard.png
-  selected: true
-
 - id: ghostumap
   title: GhostUMAP
   desc: How much is your projection affected by stochasticity? Check it with GhostUMAP
   teaser: /images/ghostumap.jpg
+  selected: true
+
+- id: waltzboard
+  title: Waltzboard
+  desc: An automatic search of multi-criteria dashboard designs with Waltzboard
+  teaser: /images/waltzboard.png
   selected: true
 
 - id: bavisitter
