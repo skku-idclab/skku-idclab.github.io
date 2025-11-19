@@ -12,9 +12,14 @@ order: 3
 
 <div class="d-flex pt-2">
 <h3 class="mr-4">{{ year.name }}</h3>
-{% assign sorted = year.items | sort: "index" %}
+
+{% assign sorted_items = year.items | sort: "index" %}
+{% assign with_index = sorted_items | where_exp: "item", "item.index" %}
+{% assign without_index = sorted_items | where_exp: "item", "item.index == nil" %}
+{% assign sorted = with_index | concat: without_index %}
 
 <div class="pt-1">
+
 {% assign bookchapters = sorted | where: 'type', "Book Chapter" %}
 {% for pub in bookchapters %}
 {% include publication.html pub = pub %}

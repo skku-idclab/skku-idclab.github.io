@@ -1,3 +1,27 @@
+- id: umato2
+  title: "UMATO: Bridging Local and Global Structures for Reliable Visual Analytics with Dimensionality Reduction"
+  year: 2025
+  authors:
+    - Hyeon Jeon
+    - Kwon Ko
+    - Soohyun Lee
+    - Jake Hyun
+    - Taehyun Yang
+    - Gyehun Go
+    - Jaemin Jo
+    - Jinwook Seo
+  journal:
+    title: IEEE Transactions on Visualization and Computer Graphics
+    abbr: TVCG
+    ea: true
+  # url: https://ieeexplore.ieee.org/abstract/document/10750222
+  attrs:
+    - international
+    - journal
+    - paper
+  type: Paper
+  index: 2
+
 - id: ghostumap2
   title: "GhostUMAP2: Measuring and Analyzing (r,d)-Stability of UMAP"
   year: 2025
@@ -5,36 +29,38 @@
     - Myeongwon Jung
     - Takanori Fujiwara
     - Jaemin Jo
-  # journal:
-  #   title: IEEE Transactions on Visualization and Computer Graphics
-  #   abbr: TVCG, Proc. IEEE VIS 2021, 114 / 442 = 25.8%
-  #   url: http://ieeevis.org/year/2021/welcome
-  #   volume: 28
-  #   issue: 1
-  #   page: 551-561
-  # url: https://ieeexplore.ieee.org/document/9552206
-  proc:
-    title: IEEE VIS 2025
+  journal:
+    title: IEEE Transactions on Visualization and Computer Graphics
+    abbr: TVCG, Proc. IEEE VIS 2025, 131 / 537 = 24.4%
     url: https://ieeevis.org/year/2025/welcome
-    venue: Vienna, Austria    
     ea: true
+    # volume: 28
+    # issue: 1
+    # page: 551-561
+  url: https://ieeexplore.ieee.org/document/9552206
+  # proc:
+  #   title: IEEE VIS 2025
+  #   url: https://ieeevis.org/year/2025/welcome
+  #   venue: Vienna, Austria
+  #   ea: true
   url: /assets/GhostUMAP2.pdf
   attrs:
     - international
     - journal
     - paper
   type: Paper
+  index: 1
 
 - id: waltzboard
   title: "Waltzboard: Multi-Criteria Automated Dashboard Design for Exploratory Analysis"
   year: 2025
-  authors:    
-    - Jiwon Choi    
+  authors:
+    - Jiwon Choi
     - Jaemin Jo
   proc:
-    title: IEEE PacificVis 2025
-    # abbr: IEEE PacificVis 2025
+    title: 2025 IEEE 18th Pacific Visualization Conference (PacificVis)
     url: https://pacificvis2025.github.io/pages/index.html
+    page: 258-268
     venue: Taipei, Taiwan
   url: /assets/Waltzboard.pdf
   attrs:
@@ -45,7 +71,7 @@
 - id: PDAV
   title: "Chapter 5. Visualization"
   year: 2024
-  authors:    
+  authors:
     - Marco Angelini
     - Jaemin Jo
   book:
@@ -60,17 +86,17 @@
 - id: IDP
   title: "Visualization-Driven Illumination for Density Plots"
   year: 2024
-  authors:    
+  authors:
     - Xin Chen
     - Yunhai Wang
     - Huaiwei Bao
     - Kecheng Lu
     - Jaemin Jo
     - Chi-Wing Fu
-    - Jean-Daniel Fekete      
+    - Jean-Daniel Fekete
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
-    abbr: TVCG    
+    abbr: TVCG
     issue: 2
     volume: 31
     page: 1631-1644
@@ -84,7 +110,7 @@
 - id: bavisitter
   title: "Bavisitter: Integrating Design Guidelines into Large Language Models for Visualization Authoring"
   year: 2024
-  authors:    
+  authors:
     - Jiwon Choi
     - Jaeung Lee
     - Jaemin Jo
@@ -102,7 +128,7 @@
 - id: ghostumap
   title: "GhostUMAP: Measuring Pointwise Instability in Dimensionality Reduction"
   year: 2024
-  authors:    
+  authors:
     - Myeongwon Jung
     - Takanori Fujiwara
     - Jaemin Jo
@@ -188,8 +214,8 @@
     - Chang Han
     - Anyi Li
     - Jaemin Jo
-    - Bongshin Lee 
-    - Oliver Deussen 
+    - Bongshin Lee
+    - Oliver Deussen
     - Yunhai Wang
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
@@ -204,6 +230,7 @@
     - journal
     - paper
   type: Paper
+  index: 1
 
 - id: intentable
   title: "Intentable: A Mixed-Initiative System for Intent-Based Chart Captioning"
@@ -215,7 +242,7 @@
     title: IEEE VIS 2022
     abbr: IEEE VIS 2022 Short
     url: http://ieeevis.org/year/2022/welcome
-    venue: Oklahoma City, USA    
+    venue: Oklahoma City, USA
   url: https://ieeexplore.ieee.org/document/9973198
   attrs:
     - international
@@ -226,10 +253,10 @@
   title: "Uniform Manifold Approximation with Two-phase Optimization"
   year: 2022
   authors:
-    - Hyeon Jeon 
+    - Hyeon Jeon
     - Hyung-Kwon Ko
     - Soohyun Lee
-    - Jaemin Jo 
+    - Jaemin Jo
     - Jinwook Seo
   proc:
     title: IEEE VIS 2022
@@ -243,15 +270,16 @@
     - paper
   type: Paper
 
+
 - id: wetoon
   title: "We-toon: A Communication Support System between Writers and Artists in Collaborative Webtoon Sketch Revision"
   year: 2022
   authors:
-    - Hyung-Kwon Ko 
+    - Hyung-Kwon Ko
     - Subin An
     - Gwanmo Park
     - Seung Kwon Kim
-    - Daesik Kim 
+    - Daesik Kim
     - Bohyoung Kim
     - Jaemin Jo
     - Jinwook Seo
@@ -291,6 +319,7 @@
     - journal
     - paper
   type: Paper
+  index: 1
 
 - id: jointtsne
   title: "Joint t-SNE for Comparable Projections of Multiple High-Dimensional Datasets"
@@ -313,6 +342,7 @@
     - journal
     - paper
   type: Paper
+  index: 1
 
 - id: steadiness
   title: "Measuring and Explaining the Inter-Cluster Reliability of Multidimensional Projections"
@@ -347,7 +377,7 @@
     - Jinwook Seo
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
-    abbr: TVCG      
+    abbr: TVCG
     volume: 27
     issue: 7
     page: 3109-3122
@@ -366,7 +396,7 @@
     - Dongjun Lee
     - Junhyeong Ahn
     - Heesoo Park
-    - Jaemin Jo     
+    - Jaemin Jo
   presented:
     title: International Joint Conference on Natural Language Processing Demo Track
     abbr: ACL-IJCNLP Demo
@@ -571,7 +601,7 @@
     - domestic
     - patent
   type: Patent
-  
+
 - id: longline
   title: "LongLine: Visual Analytics System for Large-scale Audit Logs"
   year: 2018
@@ -819,7 +849,7 @@
     - conference
     - paper
   type: Paper
-  
+
 - id: swifttunaposter
   title: "Incrementally Exploring Large-scale Multidimensional Data"
   year: 2016
