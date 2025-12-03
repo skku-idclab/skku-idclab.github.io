@@ -20,8 +20,9 @@
   alum: true
 
 - name: Myeongwon Jung
+  github: https://github.com/jjmmwon
   pic: /images/mwj.jpg
-  email: mw8244@g.skku.edu
+  email: mw.jung@skku.edu
   pos: Phd
 
 - name: Donghee Hong
