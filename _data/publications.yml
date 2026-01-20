@@ -1,3 +1,65 @@
+# - id: hypocketuner
+#   title: "HyPockeTuner: Bringing Hyperparameter Optimization to Mobile Devices"
+#   year: 2026
+#   authors:
+#     - Donghee Hong
+#     - Bongshin Lee
+#     - Jinwook Seo
+#     - Jaemin Jo
+#   proc:
+#     title: Proceedings of the 2026 Conference on Human Factors in Computing Systems
+#     abbr: CHI 2026, conditionally accepted, 1,703 / 6,730 = 25.3%
+#     url: https://chi2026.acm.org/
+#     venue: Barcelona, Spain
+#   # url: /assets/GhostUMAP2.pdf
+#   attrs:
+#     - international    
+#     - paper
+#   type: Paper
+#   index: 1
+
+# - id: unlearncomparator
+#   title: "Unlearning Comparator: A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods"
+#   year: 2026
+#   authors:
+#     - Jaeung Lee
+#     - Suhyeon Yu
+#     - Yurim Jang
+#     - Simon S. Woo
+#     - Jaemin Jo
+#   journal:
+#     title: IEEE Transactions on Visualization and Computer Graphics
+#     abbr: TVCG
+#     ea: true
+#   # url: https://ieeexplore.ieee.org/abstract/document/10750222
+#   attrs:
+#     - international    
+#     - journal
+#   type: Paper
+#   index: 2
+
+- id: suppordele
+  title: "Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning"
+  year: 2026
+  authors:
+    - Yurim Jang
+    - Jaeung Lee
+    - Dohyun Kim
+    - Jaemin Jo
+    - Simon S. Woo
+  proc:
+    title: Proceedings of The Web Conference (WWW) 2026 (short)
+    url: https://www2026.thewebconf.org/
+    venue: Dubai, United Arab Emirates
+  # url: /assets/GhostUMAP2.pdf
+  attrs:
+    - international    
+    - paper
+  type: Paper
+  index: 3
+
+
+
 - id: umato2
   title: "UMATO: Bridging Local and Global Structures for Reliable Visual Analytics with Dimensionality Reduction"
   year: 2025
@@ -37,13 +99,13 @@
     # volume: 28
     # issue: 1
     # page: 551-561
-  url: https://ieeexplore.ieee.org/document/9552206
+  url: https://ieeexplore.ieee.org/document/11277399
   # proc:
   #   title: IEEE VIS 2025
   #   url: https://ieeevis.org/year/2025/welcome
   #   venue: Vienna, Austria
   #   ea: true
-  url: /assets/GhostUMAP2.pdf
+  # url: /assets/GhostUMAP2.pdf
   attrs:
     - international
     - journal
