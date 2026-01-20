@@ -3,43 +3,50 @@
   target: Undergraduate
   desc: The objective of this course is to develop problem-solving skills using the C programming language. We will first cover the important concepts in the C programming language from the very basic syntax to its advanced usages. We will practice C programming skills by solving problems from real-world programming challenges. Having background knowledge about programming is recommended but not necessary. We will focus on practicing and improving your programming skills rather than learning complex algorithms.
   years:
-    - 2020 Fall
-    - 2021 Fall
-    - 2022 Spring
-    - 2022 Fall
-    - 2023 Fall
-    - 2024 Fall
+    - 2026 Spring, Fall
     - 2025 Fall
+    - 2024 Fall
+    - 2023 Fall    
+    - 2022 Spring, Fall
+    - 2021 Fall
+    - 2020 Fall
+    
 
 
 - title: Introduction to Human-Computer Interaction (HCI)
   target: Undergraduate
   desc: "This course provides an introduction to and overview of the field of human-computer interaction (HCI). We learn to design, prototype, and evaluate user interfaces for computers upon the theories and methodologies from computer science, cognitive psychology, and human factors. Course materials include classic and recent research papers in HCI. We cover the following topics: human factors, usability, design thinking process, design principles, and experimental design."
   years:
-    - 2021 Fall
-    - 2022 Fall
-    - 2023 Fall
+    - 2026 Fall
+    - 2025 Fall    
     - 2024 Fall
-    - 2025 Fall
+    - 2023 Fall
+    - 2022 Fall
+    - 2021 Fall
+    
 
 - title: Information Visualization (InfoVis)
   target: Undergraduate and Graduate
   desc: With the advances in data storing and processing technologies, the size of data humans confront is increasing at an unprecedented rate. Despite the ever-increasing data size, our perceptual and cognitive abilities stay relatively unchanged, leading to an information gap between humans and data. Information visualization provides one means of addressing such information overload, as well-designed visual representations can assist our perceptual and cognitive abilities to understand, analyze, and memorize the data. In this course, students will learn to 1) design, evaluate, and critique visualization designs, 2) comprehend the characteristics of humans' perception that underpin visualization, 3) understand novel visualization and interaction techniques, and 4) implement interactive data visualizations.
   years:
-    - 2021 Spring
-    - 2022 Spring
-    - 2023 Spring
-    - 2023 Fall
-    - 2024 Spring
+    - 2026 Fall
     - 2025 Spring
+    - 2024 Spring
+    - 2023 Fall
+    - 2023 Spring    
+    - 2022 Spring
+    - 2021 Spring
+    
 
 - title: Fundamentals of Machine Learning
   target: Undergraduate
   desc: This course provides an introduction to the fundamental concepts and algorithms of machine learning. We will cover the basic concepts of machine learning, including supervised methods, such as linear regression, SVM, and neural networks as well as unsupervised ones, such as clustering and dimensionality reduction. We will also discuss the theoretical aspects of machine learning, such as bias-variance tradeoff, overfitting, and generalization.
   years:
-    - 2024 Fall
+    - 2026 Spring
+    - 2025 Fall    
     - 2025 Spring
-    - 2025 Fall
+    - 2024 Fall
+    
 
 - title: Open-Source Software Practice
   target: Undergraduate
