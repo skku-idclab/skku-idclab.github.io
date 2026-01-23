@@ -1,26 +1,72 @@
+- id: hypocketuner  
+  title: HyPockeTuner
+  demo: https://idclab.skku.edu/HyPockeTuner-demo/
+  desc: Hyperparameter optimization, in your pocket
+  teaser: /images/hypocketuner.png
+  selected: true
+
+- id: unlearncomparator
+  title: Unlearning Comparator
+  desc: Understanding what models forget
+  code: https://github.com/skku-idclab/Machine-Unlearning-Comparator
+  demo: https://gnueaj.github.io/Machine-Unlearning-Comparator/
+  teaser: /images/unlearningcomparatror.png
+  selected: true
+
+- id: suppordele
+  code: https://github.com/skku-idclab/suppression-or-deletion
+
+- id: ghostumap2
+  title: GhostUMAP2
+  desc: How stochastic is your dimensionality reduction?
+  teaser: /images/ghostumap.jpg
+  code: https://github.com/skku-idclab/ghostumap2
+  selected: true
+
+- id: umato2
+  code: https://github.com/hyungkwonko/umato
+  demo: https://taehyun.me/Umato_VisualizationDemo/
+
+
 - id: ghostumap
   title: GhostUMAP
-  desc: How much is your projection affected by stochasticity? Check it with GhostUMAP
+  # desc: How much is your projection affected by stochasticity? Check it with GhostUMAP
   teaser: /images/ghostumap.jpg
-  selected: true
+  code: https://github.com/skku-idclab/ghostumap
+  # selected: true
 
 - id: waltzboard
   title: Waltzboard
-  desc: An automatic search of multi-criteria dashboard designs with Waltzboard
+  desc: Which dashboard design works best?
   teaser: /images/waltzboard.png
+  code: https://github.com/skku-idclab/Waltzboard
   selected: true
 
 - id: bavisitter
   title: Bavisitter
   desc: \"Babysitting\" LLM\'s ability for visualization authoring with Bavisitter
   teaser: /images/bavisitter.jpg
-  selected: true
+  code: https://github.com/skku-idclab/Bavisitter
+  # selected: true
+
+- id: ensemble
+  code: https://github.com/skku-idclab/ProjectionEnsemble
+
+- id: zadu
+  code: https://github.com/hj-n/zadu
+
+
+- id: sizepairs
+  code: https://github.com/Ideas-Laboratory/SizePairs  
 
 - id: pumap
   title: Progressive Uniform Manifold Approximation and Projection
   pdf: /assets/PUMAP.pdf
   code: https://github.com/hyungkwonko/progressive-umap
   hidden: true
+
+- id: intentable
+  code: https://github.com/skku-idclab/Intentable
 
 - id: dissertation
   title: Designing Progressive Visualization Systems for Exploring Large-scale Data
@@ -34,7 +80,7 @@
   teaser: /images/ProReveal.png
   desc: A new progressive visual analytics concept by leaving safeguards on uncertain intermediate knowledge
   # video: https://www.youtube.com/watch?v=RuIGrVyhciM
-  selected: true
+  # selected: true
 
 - id: autotator
   title: Autotator

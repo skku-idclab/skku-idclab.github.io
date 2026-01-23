@@ -1,42 +1,43 @@
-# - id: hypocketuner
-#   title: "HyPockeTuner: Bringing Hyperparameter Optimization to Mobile Devices"
-#   year: 2026
-#   authors:
-#     - Donghee Hong
-#     - Bongshin Lee
-#     - Jinwook Seo
-#     - Jaemin Jo
-#   proc:
-#     title: Proceedings of the 2026 Conference on Human Factors in Computing Systems
-#     abbr: CHI 2026, conditionally accepted, 1,703 / 6,730 = 25.3%
-#     url: https://chi2026.acm.org/
-#     venue: Barcelona, Spain
-#   # url: /assets/GhostUMAP2.pdf
-#   attrs:
-#     - international    
-#     - paper
-#   type: Paper
-#   index: 1
+- id: hypocketuner
+  title: "HyPockeTuner: Bringing Hyperparameter Optimization to Mobile Devices"
+  year: 2026
+  authors:
+    - Donghee Hong
+    - Bongshin Lee
+    - Jinwook Seo
+    - Jaemin Jo
+  proc:
+    title: Proceedings of the 2026 Conference on Human Factors in Computing Systems
+    abbr: CHI 2026, conditionally accepted, 1,703 / 6,730 = 25.3%
+    url: https://chi2026.acm.org/
+    venue: Barcelona, Spain
+  # url: /assets/GhostUMAP2.pdf
+  attrs:
+    - international    
+    - paper
+  type: Paper
+  index: 1
 
-# - id: unlearncomparator
-#   title: "Unlearning Comparator: A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods"
-#   year: 2026
-#   authors:
-#     - Jaeung Lee
-#     - Suhyeon Yu
-#     - Yurim Jang
-#     - Simon S. Woo
-#     - Jaemin Jo
-#   journal:
-#     title: IEEE Transactions on Visualization and Computer Graphics
-#     abbr: TVCG
-#     ea: true
-#   # url: https://ieeexplore.ieee.org/abstract/document/10750222
-#   attrs:
-#     - international    
-#     - journal
-#   type: Paper
-#   index: 2
+- id: unlearncomparator
+  title: "Unlearning Comparator: A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods"
+  year: 2026
+  authors:
+    - Jaeung Lee
+    - Suhyeon Yu
+    - Yurim Jang
+    - Simon S. Woo
+    - Jaemin Jo
+  journal:
+    title: IEEE Transactions on Visualization and Computer Graphics
+    abbr: TVCG
+    ea: true
+  # url: https://ieeexplore.ieee.org/abstract/document/10750222
+  attrs:
+    - international    
+    - journal
+  type: Paper
+  index: 2
+  code: https://github.com/gnueaj/Machine-Unlearning-Comparator
 
 - id: suppordele
   title: "Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning"
@@ -48,7 +49,7 @@
     - Jaemin Jo
     - Simon S. Woo
   proc:
-    title: Proceedings of The Web Conference (WWW) 2026 (short)
+    title: Proceedings of The Web Conference 2026 (WWW 2026 Short)
     url: https://www2026.thewebconf.org/
     venue: Dubai, United Arab Emirates
   # url: /assets/GhostUMAP2.pdf
@@ -75,8 +76,10 @@
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG
-    ea: true
-  # url: https://ieeexplore.ieee.org/abstract/document/10750222
+    volume: 31
+    issue: 12
+    page: 10503-10520
+  url: https://ieeexplore.ieee.org/document/11141505
   attrs:
     - international
     - journal
