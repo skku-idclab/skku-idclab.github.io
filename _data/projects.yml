@@ -2,7 +2,7 @@
   title: HyPockeTuner
   demo: https://idclab.skku.edu/HyPockeTuner-demo/
   desc: Hyperparameter optimization, in your pocket
-  teaser: /images/hypocketuner.png
+  teaser: /images/hypocketuner.PNG
   selected: true
 
 - id: unlearncomparator
