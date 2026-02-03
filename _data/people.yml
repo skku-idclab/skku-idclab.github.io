@@ -75,6 +75,11 @@
   email: dnswwjd4835@skku.edu
   pos: Undergraduate
 
+- name: Changhyeon Kim
+  pic: /images/chk.jpeg
+  email: kjyun020617@gmail.com
+  pos: Undergraduate
+  
 - name: Nicola Poell
   pic: /images/np.png
   email: nicola.poell@rwth-aachen.de
@@ -86,7 +91,6 @@
   email: tomasaq98@g.skku.edu
   pos: Undergraduate
   alum: true
-
 
 - name: Gwon Hong
   github: https://github.com/gwonhong
