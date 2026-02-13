@@ -1,3 +1,19 @@
+# - id: symetra
+#   title: "Symetra: Visual Analytics for the Parameter Tuning Process of Symbolic Execution Engines"
+#   year: 2026
+#   authors:
+#     - Donghee Hong
+#     - Minjong Kim
+#     - Sooyoung Cha
+#     - Jaemin Jo
+#   journal:
+#     title: Computer Graphics Forum
+#     abbr: CGF, Proc. EuroVis 2026, 52 / 195 = 26.67%
+#     url: https://eurovis.org.uk/
+#     ea: true
+#   type: Paper
+#   index: 0
+
 - id: hypocketuner
   title: "HyPockeTuner: Bringing Hyperparameter Optimization to Mobile Devices"
   year: 2026
@@ -13,7 +29,7 @@
     venue: Barcelona, Spain
   # url: /assets/GhostUMAP2.pdf
   attrs:
-    - international    
+    - international
     - paper
   type: Paper
   index: 1
@@ -33,7 +49,7 @@
     ea: true
   # url: https://ieeexplore.ieee.org/abstract/document/10750222
   attrs:
-    - international    
+    - international
     - journal
   type: Paper
   index: 2
@@ -54,7 +70,7 @@
     venue: Dubai, United Arab Emirates
   # url: /assets/GhostUMAP2.pdf
   attrs:
-    - international    
+    - international
     - paper
   type: Paper
   index: 3
