@@ -54,7 +54,7 @@
   pos: Undergraduate
   alum: true
 
-- name: Jaeung Lee 
+- name: Jaeung Lee
   github: https://github.com/gnueaj
   pic: /images/jul.jpg
   email: dlwodnd00@skku.edu
@@ -79,7 +79,12 @@
   pic: /images/chk.jpeg
   email: kjyun020617@gmail.com
   pos: Undergraduate
-  
+
+- name: Taerin Kim
+  pic: /images/trkim.jpg
+  email: ehlinkim@g.skku.edu
+  pos: Undergraduate
+
 - name: Nicola Poell
   pic: /images/np.png
   email: nicola.poell@rwth-aachen.de
