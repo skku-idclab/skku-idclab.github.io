@@ -116,17 +116,10 @@
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG, Proc. IEEE VIS 2025, 131 / 537 = 24.4%
     url: https://ieeevis.org/year/2025/welcome
-    ea: true
-    # volume: 28
-    # issue: 1
-    # page: 551-561
-  url: https://ieeexplore.ieee.org/document/11277399
-  # proc:
-  #   title: IEEE VIS 2025
-  #   url: https://ieeevis.org/year/2025/welcome
-  #   venue: Vienna, Austria
-  #   ea: true
-  # url: /assets/GhostUMAP2.pdf
+    volume: 32
+    issue: 1
+    page: 353-362
+  url: https://ieeexplore.ieee.org/document/11277399  
   attrs:
     - international
     - journal
