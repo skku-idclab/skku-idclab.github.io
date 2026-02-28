@@ -46,8 +46,10 @@
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG
-    ea: true
-  # url: https://ieeexplore.ieee.org/abstract/document/10750222
+    volume: 32
+    issue: 3
+    page: 2852-2867
+  url: https://ieeexplore.ieee.org/document/11364307
   attrs:
     - international
     - journal
@@ -68,7 +70,7 @@
     title: Proceedings of The Web Conference 2026 (WWW 2026 Short)
     url: https://www2026.thewebconf.org/
     venue: Dubai, United Arab Emirates
-  # url: /assets/GhostUMAP2.pdf
+  url: https://arxiv.org/abs/2602.18505
   attrs:
     - international
     - paper

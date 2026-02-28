@@ -19,6 +19,13 @@
   pos: Master
   alum: true
 
+- name: Jaeung Lee
+  github: https://github.com/gnueaj
+  pic: /images/jul.jpg
+  email: dlwodnd00@skku.edu
+  pos: Master
+  alum: true
+  
 - name: Myeongwon Jung
   github: https://github.com/jjmmwon
   pic: /images/mwj.jpg
@@ -54,11 +61,7 @@
   pos: Undergraduate
   alum: true
 
-- name: Jaeung Lee
-  github: https://github.com/gnueaj
-  pic: /images/jul.jpg
-  email: dlwodnd00@skku.edu
-  pos: Master
+
 
 - name: Seonghoon Jung
   pic: /images/shj.jpg
