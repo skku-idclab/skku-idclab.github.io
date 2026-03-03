@@ -8,7 +8,7 @@
 #     - Jaemin Jo
 #   journal:
 #     title: Computer Graphics Forum
-#     abbr: CGF, Proc. EuroVis 2026, 52 / 195 = 26.67%
+#     abbr: CGF, Proc. EuroVis 2026, 52 / 195 = 26.7%
 #     url: https://eurovis.org.uk/
 #     ea: true
 #   type: Paper
@@ -24,10 +24,10 @@
     - Jaemin Jo
   proc:
     title: Proceedings of the 2026 Conference on Human Factors in Computing Systems
-    abbr: CHI 2026, conditionally accepted, 1,703 / 6,730 = 25.3%
+    abbr: CHI 2026, 1,703 / 6,730 = 25.3%
     url: https://chi2026.acm.org/
     venue: Barcelona, Spain
-  # url: /assets/GhostUMAP2.pdf
+  url: /assets/HyPockeTuner.pdf
   attrs:
     - international
     - paper
