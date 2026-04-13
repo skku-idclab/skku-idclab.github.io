@@ -8,8 +8,9 @@
 - name: Donghoon Jang
   pic: /images/dhj.jpg
   email: dslr.jang@samsung.com
-  pos: Master
+  pos: Master (DMC)
   alum: true
+  aff: Samsung Electronics
 
 - name: Jiwon Choi
   website: https://jiwnchoi.me
@@ -18,6 +19,7 @@
   email: jiwnchoi@skku.edu
   pos: Master
   alum: true
+  aff: Match Group
 
 - name: Jaeung Lee
   github: https://github.com/gnueaj
@@ -25,6 +27,7 @@
   email: dlwodnd00@skku.edu
   pos: Master
   alum: true
+  aff: Samsung Research
   
 - name: Myeongwon Jung
   github: https://github.com/jjmmwon
@@ -36,7 +39,7 @@
   website: https://www.donghee.me/
   pic: /images/dhh.jpg
   email: dh.hong@skku.edu
-  pos: Master
+  pos: Master,   
 
 - name: Seonghyeon Cho
   github: https://github.com/st42597
@@ -88,11 +91,11 @@
   email: ehlinkim@g.skku.edu
   pos: Undergraduate
 
-- name: Nicola Poell
-  pic: /images/np.png
-  email: nicola.poell@rwth-aachen.de
-  pos: Visiting Student
-  alum: true
+# - name: Nicola Poell
+#   pic: /images/np.png
+#   email: nicola.poell@rwth-aachen.de
+#   pos: Visiting Student
+#   alum: true
 
 - name: Kwangmin Lee
   pic: /images/kmlee.jpg

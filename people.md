@@ -13,7 +13,11 @@ order: 1
 {% assign ms = people | where: "pos", "Master" | where_exp: "s", "s.alum != true" %}
 {% assign ud = people | where: "pos", "Undergraduate" | where_exp: "s", "s.alum != true" %}
 {% assign vs = people | where: "pos", "Visiting Student" | where_exp: "s", "s.alum != true" %}
-{% assign al = people | where_exp: "s", "s.alum == true" %}
+
+{% assign alumni = people | where_exp: "s", "s.alum == true" %}
+{% assign former_students = alumni | where_exp: "s", "s.pos != 'Undergraduate'" %}
+{% assign former_interns = alumni | where_exp: "s", "s.pos == 'Undergraduate'" %}
+
 
 <h3 class="mt-1">Director</h3>
 <div class="d-flex">
@@ -61,12 +65,24 @@ order: 1
 
 </div>
 
-{% if al.size > 0%}
+
+{% if former_students.size > 0%}
 <h3 class="mt-1">Former Students</h3>
 <ul>
-{% for person in al %}
+{% for person in former_students %}
+<li>{% if person.website %}<a href="{{ person.website }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %} ({{ person.pos }}{% if person.aff %}, {{ person.aff }}{% endif %})</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if former_interns.size > 0%}
+<h3 class="mt-1">Former Interns</h3>
+<ul>
+{% for person in former_interns %}
 <li>{{ person.name }} ({{ person.pos }})</li>
 {% endfor %}
 </ul>
 {% endif %}
+
+
 </section>
