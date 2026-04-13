@@ -1,4 +1,8 @@
-- id: hypocketuner  
+- id: symetra
+  title: Symetra
+  code: https://github.com/skku-idclab/Symetra
+
+- id: hypocketuner
   title: HyPockeTuner
   demo: https://idclab.skku.edu/HyPockeTuner-demo/
   desc: Hyperparameter optimization, in your pocket
@@ -59,7 +63,7 @@
 
 
 - id: sizepairs
-  code: https://github.com/Ideas-Laboratory/SizePairs  
+  code: https://github.com/Ideas-Laboratory/SizePairs
 
 - id: pumap
   title: Progressive Uniform Manifold Approximation and Projection
