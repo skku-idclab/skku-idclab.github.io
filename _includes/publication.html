@@ -15,7 +15,8 @@
       pub.proc.abbr -%}&nbsp;({{
       pub.proc.abbr }}){% endif -%} {% if pub.proc.url -%}</a>{%- endif -%} {% if pub.proc.ea -%}, to appear{% elsif
     pub.noinfo -%}{%
-    else -%},{% if pub.proc.page %} pp. {{ pub.proc.page }},{% endif %} {{ pub.proc.venue }}{% endif %}, {{
+    else -%}{% if pub.proc.page %}, pp. {{ pub.proc.page }}{% endif %}{% if pub.proc.venue %}, {{ pub.proc.venue }}{%
+    endif %}{% endif %}, {{
     pub.year }}.
   </div>
   {% endif %} {% if pub.journal %}

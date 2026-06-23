@@ -1,3 +1,35 @@
+
+- id: tunescape
+  title: "TuneScape: Visualizing Multi-Tuner Parameter Optimization Logs"
+  year: 2026
+  authors:
+    - Donghee Hong
+    - Minjong Kim
+    - Sooyoung Cha
+    - Jaemin Jo
+  proc:
+    title: IEEE VIS 2026
+    abbr: IEEE VIS 2026 Short, cond.
+    url: http://ieeevis.org/year/2026/welcome      
+  type: Paper
+  index: 1
+
+- id: swipytics
+  title: "Swipytics: Leveraging Short-form Video Stream Metaphor in Exploratory Data Analysis"
+  year: 2026
+  authors:
+    - Jiwon Choi
+    - Sehi L'Yi
+    - Seojin Kim
+    - Jaemin Jo
+  proc:
+    title: IEEE VIS 2026
+    abbr: IEEE VIS 2026 Short, cond.
+    url: http://ieeevis.org/year/2026/welcome      
+  type: Paper
+  index: 1
+
+
 - id: symetra
   title: "Symetra: Visual Analytics for the Parameter Tuning Process of Symbolic Execution Engines"
   year: 2026
@@ -12,7 +44,7 @@
     url: https://eurovis.org.uk/
     ea: true
   type: Paper
-  index: 0
+  index: 2
 
 - id: hypocketuner
   title: "HyPockeTuner: Bringing Hyperparameter Optimization to Mobile Devices"
@@ -32,7 +64,7 @@
     - international
     - paper
   type: Paper
-  index: 1
+  index: 3
 
 - id: unlearncomparator
   title: "Unlearning Comparator: A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods"
@@ -54,7 +86,7 @@
     - international
     - journal
   type: Paper
-  index: 2
+  index: 4
   code: https://github.com/gnueaj/Machine-Unlearning-Comparator
 
 - id: suppordele
