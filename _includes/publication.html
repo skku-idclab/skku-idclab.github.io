@@ -25,7 +25,7 @@
       pub.journal.abbr -%}&nbsp;({{
       pub.journal.abbr }}){% endif -%} {% if pub.journal.url -%}</a>{% endif -%} {% if pub.journal.ea -%}, to appear{%
     elsif pub.noinfo -%}{%
-    else -%}, vol. {{ pub.journal.volume}}, {% if pub.journal.issue -%}no. {{ pub.journal.issue }}, {% endif -%} pp. {{
+    else -%}, {% if pub.journal.volume%}vol. {{ pub.journal.volume}}, {% endif -%} {% if pub.journal.issue -%}no. {{ pub.journal.issue }}, {% endif -%} pp. {{
     pub.journal.page }}{% endif %}, {{ pub.year }}.
   </div>
   {% endif %} {% if pub.presented %}

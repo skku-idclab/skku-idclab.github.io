@@ -10,7 +10,7 @@
   proc:
     title: IEEE VIS 2026
     abbr: IEEE VIS 2026 Short, cond.
-    url: http://ieeevis.org/year/2026/welcome      
+    url: http://ieeevis.org/year/2026/welcome
   type: Paper
   index: 1
 
@@ -25,7 +25,7 @@
   proc:
     title: IEEE VIS 2026
     abbr: IEEE VIS 2026 Short, cond.
-    url: http://ieeevis.org/year/2026/welcome      
+    url: http://ieeevis.org/year/2026/welcome
   type: Paper
   index: 1
 
@@ -42,7 +42,7 @@
     title: Computer Graphics Forum
     abbr: CGF, Proc. EuroVis 2026, 52 / 195 = 26.7%
     url: https://eurovis.org.uk/
-    ea: true
+    page: e70461
   type: Paper
   index: 2
 
