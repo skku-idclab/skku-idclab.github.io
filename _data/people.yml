@@ -29,7 +29,7 @@
   pos: Master
   alum: true
   aff: Samsung Research
-  
+
 - name: Myeongwon Jung
   github: https://github.com/jjmmwon
   pic: /images/mwj.jpg
@@ -40,7 +40,8 @@
   website: https://www.donghee.me/
   pic: /images/dhh.jpg
   email: dh.hong@skku.edu
-  pos: Master,   
+  alum: true
+  pos: Master, PhD@University of Maryland
 
 - name: Seonghyeon Cho
   github: https://github.com/st42597
@@ -76,6 +77,7 @@
   pic: /images/dhk.jpg
   email: kimdoh0423@g.skku.edu
   pos: Undergraduate
+  alum: true
 
 - name: Woonjung Lee
   pic: /images/wjlee.jpg

@@ -9,10 +9,11 @@
     - Jaemin Jo
   proc:
     title: IEEE VIS 2026
-    abbr: IEEE VIS 2026 Short, cond.
+    abbr: IEEE VIS 2026 Short
     url: http://ieeevis.org/year/2026/welcome
   type: Paper
-  index: 1
+  url: /assets/TuneScape.pdf
+  index: 0
 
 - id: swipytics
   title: "Swipytics: Leveraging Short-form Video Stream Metaphor in Exploratory Data Analysis"
@@ -24,9 +25,10 @@
     - Jaemin Jo
   proc:
     title: IEEE VIS 2026
-    abbr: IEEE VIS 2026 Short, cond.
+    abbr: IEEE VIS 2026 Short
     url: http://ieeevis.org/year/2026/welcome
   type: Paper
+  url: /assets/Swipytics.pdf
   index: 1
 
 

@@ -1,6 +1,16 @@
+- id: tunescape
+  title: TuneScape
+  code: https://github.com/skku-idclab/TuneScape
+
+- id: swipytics
+  title: Swipytics
+  code: https://github.com/skku-idclab/Swipytics
+  demo: https://jiwnchoi.github.io/Swipytics/
+
 - id: symetra
   title: Symetra
   code: https://github.com/skku-idclab/Symetra
+  demo: https://sth49.github.io/Symetra/
 
 - id: hypocketuner
   title: HyPockeTuner
