@@ -1,3 +1,21 @@
+- id: unlearningdepth
+  title: "Measuring the Depth of LLM Unlearning via Activation Patching"
+  year: 2026
+  authors:
+    - Jaeung Lee
+    - Dohyun Kim
+    - Jaemin Jo
+  proc:
+    title: Conference on Empirical Methods in Natural Language Processing
+    abbr: EMNLP 2026, 2,719 / 17,669 = 15.4%
+    url: https://2026.emnlp.org/
+    venue: Budapest, Hungary
+  type: Paper
+  attrs:
+    - international
+    - paper
+  url: https://arxiv.org/abs/2605.24614
+  index: -1
 
 - id: tunescape
   title: "TuneScape: Visualizing Multi-Tuner Parameter Optimization Logs"
@@ -8,8 +26,7 @@
     - Sooyoung Cha
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2026
-    abbr: IEEE VIS 2026 Short
+    title: IEEE VIS 2026 (Short)
     url: http://ieeevis.org/year/2026/welcome
   type: Paper
   url: /assets/TuneScape.pdf
@@ -24,8 +41,7 @@
     - Seojin Kim
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2026
-    abbr: IEEE VIS 2026 Short
+    title: IEEE VIS 2026 (Short)
     url: http://ieeevis.org/year/2026/welcome
   type: Paper
   url: /assets/Swipytics.pdf
@@ -225,8 +241,7 @@
     - Jaeung Lee
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2024
-    abbr: IEEE VIS 2024 Short
+    title: IEEE VIS 2024 (Short)
     url: http://ieeevis.org/year/2024/welcome
     venue: Virtual
   url: /assets/Bavisitter.pdf
@@ -243,8 +258,7 @@
     - Takanori Fujiwara
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2024
-    abbr: IEEE VIS 2024 Short
+    title: IEEE VIS 2024 (Short)
     url: http://ieeevis.org/year/2024/welcome
     venue: Virtual
   url: /assets/GhostUMAP.pdf
@@ -261,8 +275,7 @@
     - Jiwon Choi
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2023
-    abbr: IEEE VIS 2023 Short
+    title: IEEE VIS 2023 (Short)
     url: http://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
   url: /assets/ProjectionEnsemble.pdf
@@ -284,8 +297,7 @@
     - Jaemin Jo
     - Jinwook Seo
   proc:
-    title: IEEE VIS 2023
-    abbr: IEEE VIS 2023 Short
+    title: IEEE VIS 2023 (Short)
     url: http://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
     url: http://ieeevis.org/year/2023/welcome
@@ -349,8 +361,7 @@
     - Jiwon Choi
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2022
-    abbr: IEEE VIS 2022 Short
+    title: IEEE VIS 2022 (Short)
     url: http://ieeevis.org/year/2022/welcome
     venue: Oklahoma City, USA
   url: https://ieeexplore.ieee.org/document/9973198
@@ -369,8 +380,7 @@
     - Jaemin Jo
     - Jinwook Seo
   proc:
-    title: IEEE VIS 2022
-    abbr: IEEE VIS 2022 Short
+    title: IEEE VIS 2022 (Short)
     url: http://ieeevis.org/year/2022/welcome
     venue: Oklahoma City, USA
     # page: 1-1 (to appear)
@@ -601,8 +611,7 @@
     - Jaemin Jo
     - Jinwook Seo
   proc:
-    title: IEEE Information Visualization 2019
-    abbr: IEEE InfoVis 2019 Short
+    title: IEEE Information Visualization 2019 (Short)
     url: http://ieeevis.org/year/2019/welcome
     venue: Vancouver, Canada
   noinfo: true
