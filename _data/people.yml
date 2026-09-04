@@ -67,6 +67,12 @@
   alum: true
 
 
+- name: Changhyeon Kim
+  pic: /images/chk.jpeg
+  email: kjyun020617@gmail.com
+  pos: Undergraduate
+  alum: true
+
 
 - name: Seonghoon Jung
   pic: /images/shj.jpg
@@ -84,15 +90,18 @@
   email: dnswwjd4835@skku.edu
   pos: Undergraduate
 
-- name: Changhyeon Kim
-  pic: /images/chk.jpeg
-  email: kjyun020617@gmail.com
-  pos: Undergraduate
-
 - name: Taerin Kim
   pic: /images/trkim.jpg
   email: ehlinkim@g.skku.edu
   pos: Undergraduate
+
+
+- name: Taejoon Park
+  pic: /images/tjp.jpg
+  email: poisonous60@gmail.com
+  pos: Undergraduate
+
+
 
 # - name: Nicola Poell
 #   pic: /images/np.png
