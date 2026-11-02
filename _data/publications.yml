@@ -36,7 +36,7 @@
 #   type: Paper
 #   index: 10
 
-- id: unlearningdepth
+- id: uds
   title: "Measuring the Depth of LLM Unlearning via Activation Patching"
   year: 2026
   authors:

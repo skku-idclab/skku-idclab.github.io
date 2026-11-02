@@ -1,3 +1,8 @@
+- id: uds
+  title: Unlearning Depth Score
+  code: https://github.com/gnueaj/unlearning-depth-score
+  demo: https://gnueaj.github.io/unlearning-depth-score/
+
 - id: tunescape
   title: TuneScape
   code: https://github.com/skku-idclab/TuneScape
