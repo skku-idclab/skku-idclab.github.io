@@ -20,6 +20,7 @@ email: jmjo@skku.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://skku-idclab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: skku-idclab
+lab_github: https://github.com/skku-idclab
 
 # Build settings
 markdown: kramdown
