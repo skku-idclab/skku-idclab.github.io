@@ -1,3 +1,41 @@
+
+# - id: decode
+#   title: "DECODE: Diagnosing Interpretability Failures in Automated Interpretation Process"
+#   year: 2027
+#   authors:
+#     - Dohyun Kim
+#     - Jaeung Lee
+#     - Donghee Hong
+#     - Jaemin Jo
+#   journal:
+#     title: IEEE Transactions on Visualization and Computer Graphics
+#     abbr: TVCG, Proc. IEEE PacificVis 2027, 24 / 170 = 14.1%
+#     url: https://pacificvis2027.github.io/
+#   attrs:
+#     - international
+#     - journal
+#     - paper
+#   type: Paper
+#   index: 9
+
+# - id: drperturbation
+#   title: "A Perturbation-Driven Framework for Sensitivity Analysis of Dimensionality Reduction"
+#   year: 2027
+#   authors:
+#     - Md Afridi Hasan
+#     - Jaemin Jo
+#     - Takanori Fujiwara
+#   journal:
+#     title: IEEE Transactions on Visualization and Computer Graphics
+#     abbr: TVCG, Proc. IEEE PacificVis 2027, 24 / 170 = 14.1%
+#     url: https://pacificvis2027.github.io/
+#   attrs:
+#     - international
+#     - journal
+#     - paper
+#   type: Paper
+#   index: 10
+
 - id: unlearningdepth
   title: "Measuring the Depth of LLM Unlearning via Activation Patching"
   year: 2026
@@ -7,7 +45,7 @@
     - Jaemin Jo
   proc:
     title: Conference on Empirical Methods in Natural Language Processing
-    abbr: EMNLP 2026, 2,719 / 17,669 = 15.4%
+    abbr: EMNLP 2026 (Oral), 452 / 17,669 = 2.6%
     url: https://2026.emnlp.org/
     venue: Budapest, Hungary
   type: Paper
