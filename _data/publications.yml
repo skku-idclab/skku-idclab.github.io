@@ -36,6 +36,24 @@
 #   type: Paper
 #   index: 10
 
+
+- id: pyprogressive
+  title: "PyProgressive: A Lightweight Library for Progressive Computations"
+  year: 2026
+  authors:
+    - Seonghoon Jung
+    - Jaemin Jo
+  presented:
+    title: IEEE VIS 2026 Poster (Best Poster Honorable Mention)
+    url: http://ieeevis.org/year/2026/welcome
+    venue: Boston, Massachusetts, USA
+  attrs:
+    - international
+    - conference
+    - poster
+  type: Poster
+  index: -2
+
 - id: uds
   title: "Measuring the Depth of LLM Unlearning via Activation Patching"
   year: 2026
@@ -54,6 +72,7 @@
     - paper
   url: https://arxiv.org/abs/2605.24614
   index: -1
+
 
 - id: tunescape
   title: "TuneScape: Visualizing Multi-Tuner Parameter Optimization Logs"
