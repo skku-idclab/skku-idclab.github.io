@@ -44,8 +44,9 @@
     - Seonghoon Jung
     - Jaemin Jo
   presented:
-    title: IEEE VIS 2026 Poster (Best Poster Honorable Mention)
-    url: http://ieeevis.org/year/2026/welcome
+    title: IEEE Visualization and Visual Analytics
+    abbr: IEEE VIS 2026 Poster, Best Poster Honorable Mention
+    url: https://ieeevis.org/year/2026/welcome
     venue: Boston, Massachusetts, USA
   attrs:
     - international
@@ -63,7 +64,7 @@
     - Jaemin Jo
   proc:
     title: Conference on Empirical Methods in Natural Language Processing
-    abbr: EMNLP 2026 (Oral), 452 / 17,669 = 2.6%
+    abbr: EMNLP 2026 Oral, 452 / 17,669 = 2.6%
     url: https://2026.emnlp.org/
     venue: Budapest, Hungary
   type: Paper
@@ -83,8 +84,10 @@
     - Sooyoung Cha
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2026 (Short)
-    url: http://ieeevis.org/year/2026/welcome
+    title: IEEE Visualization and Visual Analytics
+    abbr: IEEE VIS 2026 Short
+    url: https://ieeevis.org/year/2026/welcome
+    venue: Boston, Massachusetts, USA
   type: Paper
   url: /assets/TuneScape.pdf
   index: 0
@@ -98,8 +101,10 @@
     - Seojin Kim
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2026 (Short)
-    url: http://ieeevis.org/year/2026/welcome
+    title: IEEE Visualization and Visual Analytics
+    abbr: IEEE VIS 2026 Short
+    url: https://ieeevis.org/year/2026/welcome
+    venue: Boston, Massachusetts, USA
   type: Paper
   url: /assets/Swipytics.pdf
   index: 1
@@ -130,7 +135,7 @@
     - Jinwook Seo
     - Jaemin Jo
   proc:
-    title: Proceedings of the 2026 Conference on Human Factors in Computing Systems
+    title: ACM Conference on Human Factors in Computing Systems
     abbr: CHI 2026, 1,703 / 6,730 = 25.3%
     url: https://chi2026.acm.org/
     venue: Barcelona, Spain
@@ -174,7 +179,8 @@
     - Jaemin Jo
     - Simon S. Woo
   proc:
-    title: Proceedings of The Web Conference 2026 (WWW 2026 Short)
+    title: The Web Conference
+    abbr: WWW 2026 Short
     url: https://www2026.thewebconf.org/
     venue: Dubai, United Arab Emirates
   url: https://arxiv.org/abs/2602.18505
@@ -182,7 +188,7 @@
     - international
     - paper
   type: Paper
-  index: 3
+  index: 5
 
 
 
@@ -241,7 +247,8 @@
     - Jiwon Choi
     - Jaemin Jo
   proc:
-    title: 2025 IEEE 18th Pacific Visualization Conference (PacificVis)
+    title: IEEE Pacific Visualization Conference
+    abbr: PacificVis 2025
     url: https://pacificvis2025.github.io/pages/index.html
     page: 258-268
     venue: Taipei, Taiwan
@@ -298,8 +305,9 @@
     - Jaeung Lee
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2024 (Short)
-    url: http://ieeevis.org/year/2024/welcome
+    title: IEEE Visualization and Visual Analytics
+    abbr: IEEE VIS 2024 Short
+    url: https://ieeevis.org/year/2024/welcome
     venue: Virtual
   url: /assets/Bavisitter.pdf
   attrs:
@@ -315,8 +323,9 @@
     - Takanori Fujiwara
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2024 (Short)
-    url: http://ieeevis.org/year/2024/welcome
+    title: IEEE Visualization and Visual Analytics
+    abbr: IEEE VIS 2024 Short
+    url: https://ieeevis.org/year/2024/welcome
     venue: Virtual
   url: /assets/GhostUMAP.pdf
   attrs:
@@ -332,8 +341,9 @@
     - Jiwon Choi
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2023 (Short)
-    url: http://ieeevis.org/year/2023/welcome
+    title: IEEE Visualization and Visual Analytics
+    abbr: IEEE VIS 2023 Short
+    url: https://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
   url: /assets/ProjectionEnsemble.pdf
   attrs:
@@ -350,14 +360,14 @@
     - Jinhwa Jang
     - Soohyun Lee
     - Jake Hyun
-    - Hyung-Kwon Ko
+    - Kwon Ko
     - Jaemin Jo
     - Jinwook Seo
   proc:
-    title: IEEE VIS 2023 (Short)
-    url: http://ieeevis.org/year/2023/welcome
+    title: IEEE Visualization and Visual Analytics
+    abbr: IEEE VIS 2023 Short
+    url: https://ieeevis.org/year/2023/welcome
     venue: Melbourne, Australia
-    url: http://ieeevis.org/year/2023/welcome
   url: https://ieeexplore.ieee.org/document/10360886
   attrs:
     - international
@@ -368,15 +378,15 @@
   title: "Large-scale Text-to-Image Generation Models for Visual Artists' Creative Works"
   year: 2023
   authors:
-    - Hyung-Kwon Ko
+    - Kwon Ko
     - Gwanmo Park
     - Hyeon Jeon
     - Jaemin Jo
     - Juho Kim
     - Jinwook Seo
   proc:
-    title: Proceedings of ACM Annual Conference on Intelligent User Interfaces 2023
-    abbr: ACM IUI 2023
+    title: ACM Conference on Intelligent User Interfaces
+    abbr: IUI 2023, 66 / 274 = 24.1%
     url: https://iui.acm.org/2023/
     venue: Sydney, Australia
     page: 919-933
@@ -399,7 +409,7 @@
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG, Proc. IEEE VIS 2022, 122 / 460 = 26.5%
-    url: http://ieeevis.org/year/2022/welcome
+    url: https://ieeevis.org/year/2022/welcome
     volume: 29
     issue: 1
     page: 193-202
@@ -418,8 +428,9 @@
     - Jiwon Choi
     - Jaemin Jo
   proc:
-    title: IEEE VIS 2022 (Short)
-    url: http://ieeevis.org/year/2022/welcome
+    title: IEEE Visualization and Visual Analytics
+    abbr: IEEE VIS 2022 Short
+    url: https://ieeevis.org/year/2022/welcome
     venue: Oklahoma City, USA
   url: https://ieeexplore.ieee.org/document/9973198
   attrs:
@@ -432,13 +443,14 @@
   year: 2022
   authors:
     - Hyeon Jeon
-    - Hyung-Kwon Ko
+    - Kwon Ko
     - Soohyun Lee
     - Jaemin Jo
     - Jinwook Seo
   proc:
-    title: IEEE VIS 2022 (Short)
-    url: http://ieeevis.org/year/2022/welcome
+    title: IEEE Visualization and Visual Analytics
+    abbr: IEEE VIS 2022 Short
+    url: https://ieeevis.org/year/2022/welcome
     venue: Oklahoma City, USA
     # page: 1-1 (to appear)
   url: https://ieeexplore.ieee.org/abstract/document/9973206
@@ -452,7 +464,7 @@
   title: "We-toon: A Communication Support System between Writers and Artists in Collaborative Webtoon Sketch Revision"
   year: 2022
   authors:
-    - Hyung-Kwon Ko
+    - Kwon Ko
     - Subin An
     - Gwanmo Park
     - Seung Kwon Kim
@@ -461,8 +473,8 @@
     - Jaemin Jo
     - Jinwook Seo
   proc:
-    title: Proceedings of the 35th ACM User Interface Software and Technology Symposium
-    abbr: UIST 2022
+    title: ACM Symposium on User Interface Software and Technology
+    abbr: UIST 2022, 98 / 372 = 26.3%
     url: https://uist.acm.org/uist2022/
     # page: 1-1 (to appear)
     venue: Oregon, USA
@@ -486,7 +498,6 @@
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG
-    url: http://ieeevis.org/year/2021/welcome
     issue: 3
     volume: 29
     page: 1799-1817
@@ -509,7 +520,7 @@
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG, Proc. IEEE VIS 2021, 114 / 442 = 25.8%
-    url: http://ieeevis.org/year/2021/welcome
+    url: https://ieeevis.org/year/2021/welcome
     volume: 28
     issue: 1
     page: 623-632
@@ -526,14 +537,14 @@
   year: 2021
   authors:
     - Hyeon Jeon
-    - Hyung-Kwon Ko
+    - Kwon Ko
     - Jaemin Jo
     - Youngtaek Kim
     - Jinwook Seo
   journal:
     title: IEEE Transactions on Visualization and Computer Graphics
     abbr: TVCG, Proc. IEEE VIS 2021, 114 / 442 = 25.8%
-    url: http://ieeevis.org/year/2021/welcome
+    url: https://ieeevis.org/year/2021/welcome
     volume: 28
     issue: 1
     page: 551-561
@@ -575,9 +586,9 @@
     - Heesoo Park
     - Jaemin Jo
   presented:
-    title: International Joint Conference on Natural Language Processing Demo Track
-    abbr: ACL-IJCNLP Demo
-    url: https://iss.acm.org/2019/
+    title: Joint Conference of the Annual Meeting of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing
+    abbr: ACL-IJCNLP 2021 Demo
+    url: https://2021.aclweb.org/
     venue: Bangkok, Thailand
   year: 2021
   url: https://arxiv.org/abs/2105.12172
@@ -621,7 +632,6 @@
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
     volume: 8
     page: 133865-133881
-    url: https://www.computer.org/csdl/journal/tg
   url: https://ieeexplore.ieee.org/document/9145532
   attrs:
     - international
@@ -632,12 +642,12 @@
   title: Progressive Uniform Manifold Approximation and Projection
   year: 2020
   authors:
-    - Hyung-Kwon Ko
+    - Kwon Ko
     - Jaemin Jo
     - Jinwook Seo
   proc:
-    title: Eurographics Proceedings
-    abbr: EuroVis 2020
+    title: Eurographics Conference on Visualization
+    abbr: EuroVis 2020 Short
     url: https://conferences.eg.org/egev20/
     venue: Norrköping, Sweden
     page: 133-137
@@ -668,10 +678,10 @@
     - Jaemin Jo
     - Jinwook Seo
   proc:
-    title: IEEE Information Visualization 2019 (Short)
-    url: http://ieeevis.org/year/2019/welcome
+    title: IEEE Visualization Conference
+    abbr: IEEE VIS 2019 Short
+    url: https://ieeevis.org/year/2019/welcome
     venue: Vancouver, Canada
-  noinfo: true
   url: https://ieeexplore.ieee.org/abstract/document/8933670
   attrs:
     - international
@@ -687,7 +697,7 @@
     - Jinwook Seo
   presented:
     title: ACM International Conference on Interactive Surfaces and Spaces
-    abbr: ISS 2019
+    abbr: ISS 2019 Demo
     url: https://iss.acm.org/2019/
     venue: Daejeon, Korea, Republic of
   year: 2019
@@ -707,7 +717,7 @@
     - Jinwook Seo
   presented:
     title: ACM Conference on Human Factors in Computing Systems
-    abbr: CHI 2019
+    abbr: CHI 2019 Poster
     url: https://chi2019.acm.org/
     venue: Glasgow, United Kingdom
   year: 2019
@@ -804,10 +814,11 @@
   authors:
     - Sehi L'Yi
     - Jaemin Jo
-    - DongHwa Shin
+    - Donghwa Shin
     - Jinwook Seo
   proc:
-    title: Proceedings of HCI KOREA 2018
+    title: HCI Korea
+    abbr: HCI Korea 2018
     page: 745-748
     url: http://conference.hcikorea.org/hcik2018/
     venue: Jeongseon, Korea, Republic of
@@ -826,7 +837,7 @@
     - Bongshin Lee
     - Jinwook Seo
   proc:
-    title: Proceedings of the 35th Annual ACM Conference on Human Factors in Computing Systems
+    title: ACM Conference on Human Factors in Computing Systems
     abbr: CHI 2017
     url: https://chi2017.acm.org/
     page: 2660-2671
@@ -849,7 +860,7 @@
     - Bohyoung Kim
     - Jinwook Seo
   proc:
-    title: Proceedings of the 10th IEEE Pacific Visualization Symposium
+    title: IEEE Pacific Visualization Symposium
     abbr: PacificVis 2017
     url: http://pacificvis.snu.ac.kr/
     page: 131-140
@@ -871,7 +882,7 @@
     - Bohyoung Kim
     - Jinwook Seo
   proc:
-    title: Proceedings of the 29th ACM User Interface Software and Technology Symposium
+    title: ACM Symposium on User Interface Software and Technology
     abbr: UIST 2016
     url: https://uist.acm.org/uist2016/
     page: 473-481
@@ -891,7 +902,7 @@
     - Bohyoung Kim
     - Jinwook Seo
   proc:
-    title: Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems
+    title: ACM Conference on Human Factors in Computing Systems
     abbr: CHI 2015
     url: http://chi2015.acm.org/
     page: 2963-2966
@@ -1016,10 +1027,10 @@
     - Jinwook Seo
     - Jean-Daniel Fekete
   presented:
-    title: Proceedings of the Workshop on Data Systems for Interactive Analysis
-    abbr: DSIA 2017
+    title: Workshop on Data Systems for Interactive Analysis
+    abbr: DSIA 2017 Workshop
     url: https://www.interactive-analysis.org/
-    venue: Pheonix, Arizona, USA
+    venue: Phoenix, Arizona, USA
   attrs:
     - international
     - conference
@@ -1036,10 +1047,11 @@
     - Bohyoung Kim
     - Jinwook Seo
   presented:
-    title: IEEE Information Visualization
-    url: http://ieeevis.org/year/2016/info/vis-welcome/welcome
+    title: IEEE Visualization Conference
+    abbr: IEEE InfoVis 2016 Poster
+    url: https://ieeevis.org/year/2016/info/vis-welcome/welcome
     venue: Baltimore, Maryland, USA
-  url: http://ieeevis.org/year/2016/info/overview-amp-topics/posters
+  url: https://ieeevis.org/year/2016/info/overview-amp-topics/posters
   attrs:
     - international
     - conference
@@ -1052,14 +1064,14 @@
   authors:
     - Youli Chang
     - Brian J. Lee
-    - GuHyun Han
+    - Guhyun Han
     - Hyunjoo Song
     - Jaemin Jo
     - Han Joo Chae
     - Jinwook Seo
-  proc:
-    title: Proceedings of the Korea Computer Congress 2016
-    page: 1396-1398
+  presented:
+    title: Korea Computer Congress
+    abbr: KCC 2016 Poster
     venue: Jeongseon, Korea, Republic of
   attrs:
     - domestic
@@ -1075,8 +1087,9 @@
     - Patrick Emaase
     - Wonjae Kim
     - Jinwook Seo
-  proc:
-    title: Proceedings of the Korea Computer Congress 2016
+  presented:
+    title: Korea Computer Congress
+    abbr: KCC 2016 Poster
     venue: Jeongseon, Korea, Republic of
   attrs:
     - domestic
