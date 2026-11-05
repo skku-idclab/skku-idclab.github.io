@@ -37,11 +37,45 @@
 #   index: 10
 
 
+- id: gpumap
+  title: "GPUMAP: GPU-Accelerated Progressive Uniform Manifold Approximation and Projection"
+  year: 2026
+  authors:
+    - Myeongwon Jung
+    - Jaemin Jo
+  journal:
+    title: arXiv preprint
+    abbr: arXiv:2611.06191
+  noinfo: true
+  url: https://arxiv.org/abs/2611.06191
+  attrs:
+    - international
+    - paper
+  type: Paper
+  index: -4
+
+- id: program
+  title: "ProGram: A Grammar for Progressive Computation Pipelines"
+  year: 2026
+  authors:
+    - Seunghoon Jung
+    - Jaemin Jo
+  journal:
+    title: arXiv preprint
+    abbr: arXiv:2611.06188
+  noinfo: true
+  url: https://arxiv.org/abs/2611.06188
+  attrs:
+    - international
+    - paper
+  type: Paper
+  index: -3
+
 - id: pyprogressive
   title: "PyProgressive: A Lightweight Library for Progressive Computations"
   year: 2026
   authors:
-    - Seonghoon Jung
+    - Seunghoon Jung
     - Jaemin Jo
   presented:
     title: IEEE Visualization and Visual Analytics
@@ -189,8 +223,6 @@
     - paper
   type: Paper
   index: 5
-
-
 
 - id: umato2
   title: "UMATO: Bridging Local and Global Structures for Reliable Visual Analytics with Dimensionality Reduction"
