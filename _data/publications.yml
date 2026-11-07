@@ -90,6 +90,7 @@
   index: -2
 
 - id: uds
+  featured: true
   title: "Measuring the Depth of LLM Unlearning via Activation Patching"
   year: 2026
   authors:
@@ -145,6 +146,7 @@
 
 
 - id: symetra
+  featured: true
   title: "Symetra: Visual Analytics for the Parameter Tuning Process of Symbolic Execution Engines"
   year: 2026
   authors:
@@ -157,10 +159,12 @@
     abbr: CGF, Proc. EuroVis 2026, 52 / 195 = 26.7%
     url: https://eurovis.org.uk/
     page: e70461
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70461
   type: Paper
   index: 2
 
 - id: hypocketuner
+  featured: true
   title: "HyPockeTuner: Bringing Hyperparameter Optimization to Mobile Devices"
   year: 2026
   authors:
@@ -181,6 +185,7 @@
   index: 3
 
 - id: unlearncomparator
+  featured: true
   title: "Unlearning Comparator: A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods"
   year: 2026
   authors:
@@ -251,6 +256,7 @@
   index: 2
 
 - id: ghostumap2
+  featured: true
   title: "GhostUMAP2: Measuring and Analyzing (r,d)-Stability of UMAP"
   year: 2025
   authors:
@@ -307,7 +313,7 @@
 
 - id: IDP
   title: "Visualization-Driven Illumination for Density Plots"
-  year: 2024
+  year: 2025
   authors:
     - Xin Chen
     - Yunhai Wang
@@ -340,6 +346,7 @@
     title: IEEE Visualization and Visual Analytics
     abbr: IEEE VIS 2024 Short
     url: https://ieeevis.org/year/2024/welcome
+    page: 121-125
     venue: Virtual
   url: /assets/Bavisitter.pdf
   attrs:
@@ -358,6 +365,7 @@
     title: IEEE Visualization and Visual Analytics
     abbr: IEEE VIS 2024 Short
     url: https://ieeevis.org/year/2024/welcome
+    page: 161-165
     venue: Virtual
   url: /assets/GhostUMAP.pdf
   attrs:
@@ -762,7 +770,7 @@
 
 - id: panene
   title: "PANENE: A Progressive Algorithm for Indexing and Querying Approximate k-Nearest Neighbors"
-  year: 2018
+  year: 2020
   authors:
     - Jaemin Jo
     - Jinwook Seo
@@ -1067,6 +1075,7 @@
     - international
     - conference
     - paper
+  url: https://hal.inria.fr/hal-01650272/
   type: Paper
 
 - id: swifttunaposter

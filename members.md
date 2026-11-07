@@ -1,7 +1,8 @@
 ---
 layout: page
-title: People
+title: Members
 order: 1
+permalink: /members/
 ---
 
 <section id="people">
@@ -19,49 +20,13 @@ order: 1
 {% assign former_interns = alumni | where_exp: "s", "s.pos == 'Undergraduate'" %}
 
 
-<h3 class="mt-1">Director</h3>
-<div class="d-flex">
-{% for person in dir %}
-{% include person.html person = person %}
-{% endfor %}
+<div class="d-flex flex-wrap">
+{% for person in dir %}{% include person.html person = person label = "Director" %}{% endfor %}
+{% for person in phd %}{% include person.html person = person label = "Ph.D. Student" %}{% endfor %}
+{% for person in ms %}{% include person.html person = person label = "M.S. Student" %}{% endfor %}
+{% for person in ud %}{% include person.html person = person label = "Undergraduate Student" %}{% endfor %}
+{% for person in vs %}{% include person.html person = person label = "Visiting Student" %}{% endfor %}
 </div>
-
-{% if phd.size > 0 %}
-<h3 class="mt-1">Ph.D. Students</h3>
-<div class="d-flex">
-{% for person in phd %}
-{% include person.html person = person %}
-{% endfor %}
-</div>
-{% endif %}
-
-{% if ms.size > 0 %}
-<h3 class="mt-1">Master Students</h3>
-<div class="d-flex">
-{% for person in ms %}
-{% include person.html person = person %}
-{% endfor %}
-</div>
-{% endif %}
-
-{% if ud.size > 0%}
-<h3 class="mt-1">Undergraduate Students</h3>
-<div class="d-flex">
-{% for person in ud %}
-{% include person.html person = person %}
-{% endfor %}
-</div>
-{% endif %}
-
-
-{% if vs.size > 0%}
-<h3 class="mt-1">Visiting Students</h3>
-<div class="d-flex">
-{% for person in vs %}
-{% include person.html person = person %}
-{% endfor %}
-</div>
-{% endif %}
 
 </div>
 

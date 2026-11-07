@@ -1,6 +1,8 @@
 - name: Jaemin Jo
-  website: https://e-.github.io/
+  name_ko: 조재민
+  website: /director/
   github: https://github.com/e-
+  scholar: https://scholar.google.com/citations?hl=en&user=fw7ft64AAAAJ
   pic: /images/jmjo.jpg
   email: jmjo@skku.edu
   pos: Director
@@ -74,7 +76,7 @@
   alum: true
 
 
-- name: Seonghoon Jung
+- name: Seunghoon Jung
   pic: /images/shj.jpg
   email: shoon125@g.skku.edu
   pos: Master

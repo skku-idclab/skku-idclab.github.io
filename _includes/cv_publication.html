@@ -1,0 +1,19 @@
+<div class="cv-pub">
+  <div class="cv-cite">
+    {%- for author in pub.authors -%}
+    {%- if forloop.last and pub.authors.size >= 2 %} and {% endif -%}
+    {%- if author == "Jaemin Jo" -%}<u>{{ author }}</u>{%- else -%}{{ author }}{%- endif -%}
+    {%- if forloop.last != true and pub.authors.size > 2 -%}, {% endif -%}
+    {%- endfor -%},
+    “{% if pub.url %}<a href="{{ pub.url }}" target="_blank">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %},”
+    {% if pub.proc -%}
+    <em>{{ pub.proc.title }}{% if pub.proc.abbr %} ({{ pub.proc.abbr }}){% endif %}</em>{% if pub.proc.page %}, pp. {{ pub.proc.page }}{% endif %}, {{ pub.year }}.
+    {%- elsif pub.journal -%}
+    <em>{{ pub.journal.title }}{% if pub.journal.abbr %} ({{ pub.journal.abbr }}){% endif %}</em>{% if pub.journal.volume %}, vol. {{ pub.journal.volume }}{% endif %}{% if pub.journal.issue %}, no. {{ pub.journal.issue }}{% endif %}{% if pub.journal.page %}, {% if pub.journal.page contains "-" %}pp. {% endif %}{{ pub.journal.page }}{% endif %}, {{ pub.year }}.
+    {%- elsif pub.presented -%}
+    <em>{{ pub.presented.title }}{% if pub.presented.abbr %} ({{ pub.presented.abbr }}){% endif %}</em>, {{ pub.year }}.
+    {%- else -%}
+    {{ pub.year }}.
+    {%- endif %}
+  </div>
+</div>

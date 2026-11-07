@@ -1,0 +1,75 @@
+# Research areas: area > topics > papers (id from publications.yml, label shown as link)
+research:
+  - area: Human–AI Interaction
+    topics:
+      - name: Visual Analytics for and with AI
+        papers:
+          - { id: uds, label: EMNLP 26 Oral }
+          - { id: hypocketuner, label: CHI 26 }
+          - { id: unlearncomparator, label: TVCG 26 }
+          - { id: symetra, label: EuroVis 26 }
+          - { id: waltzboard, label: PacificVis 25 }
+      - name: General Visualization and HCI
+        papers:
+          - { id: ltgm, label: IUI 23 }
+          - { id: rcmvis, label: TVCG 23 }
+          - { id: sizepairs, label: VIS 22 }
+          - { id: wetoon, label: UIST 22 }
+          - { id: comparative, label: VIS 20 }
+
+  - area: High-Dimensional Data Visualization
+    topics:
+      - name: Reliability and Stability of Dimensionality Reduction
+        papers:
+          - { id: ghostumap2, label: VIS 25 }
+          - { id: steadiness, label: VIS 21 }
+      - name: Visualization for Dimensionality Reduction
+        papers:
+          - { id: umato2, label: TVCG 25 }
+          - { id: IDP, label: TVCG 25 }
+          - { id: jointtsne, label: VIS 21 }
+
+  - area: Progressive Visual Analytics
+    topics:
+      - name: Progressive Systems, Libraries, and Algorithms
+        papers:
+          - { id: gpumap, label: arXiv 26 }
+          - { id: program, label: arXiv 26 }
+          - { id: proreveal, label: TVCG 21 }
+          - { id: panene, label: TVCG 20 }
+
+positions:
+  - title: Associate Professor
+    org: Sungkyunkwan University
+    url: https://www.skku.edu/
+    period: Sep 2024 – Present
+  - title: Assistant Professor
+    org: Sungkyunkwan University
+    url: https://www.skku.edu/
+    period: Sep 2020 – Aug 2024
+
+education:
+  - degree: Ph.D. in Computer Science and Engineering
+    org: Seoul National University
+    url: https://www.snu.ac.kr/
+    period: Mar 2014 – Feb 2020
+    details:
+      - "Advisor: Prof. Jinwook Seo"
+      - "Dissertation: Designing Progressive Visualization Systems for Exploring Large-scale Data"
+  - degree: B.S. in Computer Science and Engineering
+    org: Seoul National University
+    url: https://www.snu.ac.kr/
+    period: Mar 2009 – Feb 2014
+    details:
+      - Graduated with honors (Summa Cum Laude)
+
+awards:
+  - title: Best Poster Honorable Mention, IEEE VIS 2026
+    detail: "for “PyProgressive: A Lightweight Library for Progressive Computations”"
+    date: "2026"
+  - title: SKKU Teaching Award
+    detail: Sungkyunkwan University
+    date: "2026"
+  - title: Outstanding Dissertation Award
+    detail: Department of Computer Science and Engineering, Seoul National University
+    date: Feb 2020

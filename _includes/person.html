@@ -2,6 +2,7 @@
   <img src="{{ person.pic }}" height="160">
 
   <div class="name">{{ person.name }}</div>
+  {% if include.label %}<div class="pos calm">{{ include.label }}</div>{% endif %}
 
   <div class="text-center">
     {% if person.email %}
@@ -14,6 +15,11 @@
     {% endif %}
     {% if person.github %}
     <a href="{{ person.github }}" style="margin:0 .25rem;" target="_blank"><i class="fab fa-github"
+        aria-hidden="true"></i></a>
+    {% endif %}
+
+    {% if person.scholar %}
+    <a href="{{ person.scholar }}" style="margin:0 .25rem;" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"
         aria-hidden="true"></i></a>
     {% endif %}
 
