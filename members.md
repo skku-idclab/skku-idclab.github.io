@@ -24,8 +24,8 @@ permalink: /members/
 {% for person in dir %}{% include person.html person = person label = "Director" %}{% endfor %}
 {% for person in phd %}{% include person.html person = person label = "Ph.D. Student" %}{% endfor %}
 {% for person in ms %}{% include person.html person = person label = "M.S. Student" %}{% endfor %}
-{% for person in ud %}{% include person.html person = person label = "Undergraduate Student" %}{% endfor %}
-{% for person in vs %}{% include person.html person = person label = "Visiting Student" %}{% endfor %}
+{% for person in ud %}{% include person.html person = person label = "Undergraduate" %}{% endfor %}
+{% for person in vs %}{% include person.html person = person label = "Visiting" %}{% endfor %}
 </div>
 
 </div>
