@@ -108,6 +108,8 @@
     - paper
   url: https://arxiv.org/abs/2605.24614
   index: -1
+  code: https://github.com/gnueaj/unlearning-depth-score
+  demo: https://gnueaj.github.io/unlearning-depth-score/
 
 
 - id: tunescape
@@ -126,6 +128,7 @@
   type: Paper
   url: /assets/TuneScape.pdf
   index: 0
+  code: https://github.com/skku-idclab/TuneScape
 
 - id: swipytics
   title: "Swipytics: Leveraging Short-form Video Stream Metaphor in Exploratory Data Analysis"
@@ -143,6 +146,8 @@
   type: Paper
   url: /assets/Swipytics.pdf
   index: 1
+  code: https://github.com/skku-idclab/Swipytics
+  demo: https://jiwnchoi.github.io/Swipytics/
 
 
 - id: symetra
@@ -162,6 +167,8 @@
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70461
   type: Paper
   index: 2
+  code: https://github.com/skku-idclab/Symetra
+  demo: https://sth49.github.io/Symetra/
 
 - id: hypocketuner
   featured: true
@@ -183,6 +190,12 @@
     - paper
   type: Paper
   index: 3
+  demo: https://idclab.skku.edu/HyPockeTuner-demo/
+  code: https://github.com/skku-idclab/HyPockeTuner
+  name: HyPockeTuner
+  desc: Hyperparameter optimization, in your pocket
+  teaser: /images/hypocketuner.PNG
+  selected: true
 
 - id: unlearncomparator
   featured: true
@@ -206,7 +219,13 @@
     - journal
   type: Paper
   index: 4
-  code: https://github.com/gnueaj/Machine-Unlearning-Comparator
+  code: https://github.com/skku-idclab/Machine-Unlearning-Comparator
+  demo: https://gnueaj.github.io/Machine-Unlearning-Comparator/
+  video: https://youtu.be/yAyAYp2msDk?si=v9OxAy3UQSCQVVJB
+  name: Unlearning Comparator
+  desc: Understanding what models forget
+  teaser: /images/unlearningcomparatror.png
+  selected: true
 
 - id: suppordele
   title: "Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning"
@@ -228,6 +247,7 @@
     - paper
   type: Paper
   index: 5
+  code: https://github.com/skku-idclab/suppression-or-deletion
 
 - id: umato2
   title: "UMATO: Bridging Local and Global Structures for Reliable Visual Analytics with Dimensionality Reduction"
@@ -254,6 +274,8 @@
     - paper
   type: Paper
   index: 2
+  code: https://github.com/hyungkwonko/umato
+  demo: https://taehyun.me/Umato_VisualizationDemo/
 
 - id: ghostumap2
   featured: true
@@ -277,6 +299,11 @@
     - paper
   type: Paper
   index: 1
+  code: https://github.com/skku-idclab/ghostumap2
+  name: GhostUMAP2
+  desc: How stochastic is your dimensionality reduction?
+  teaser: /images/ghostumap.jpg
+  selected: true
 
 - id: waltzboard
   title: "Waltzboard: Multi-Criteria Automated Dashboard Design for Exploratory Analysis"
@@ -295,6 +322,11 @@
     - international
     - paper
   type: Paper
+  code: https://github.com/skku-idclab/Waltzboard
+  name: Waltzboard
+  desc: Which dashboard design works best?
+  teaser: /images/waltzboard.png
+  selected: true
 
 - id: PDAV
   title: "Chapter 5. Visualization"
@@ -353,6 +385,7 @@
     - international
     - paper
   type: Paper
+  code: https://github.com/skku-idclab/Bavisitter
 
 - id: ghostumap
   title: "GhostUMAP: Measuring Pointwise Instability in Dimensionality Reduction"
@@ -372,6 +405,7 @@
     - international
     - paper
   type: Paper
+  code: https://github.com/skku-idclab/ghostumap
 
 - id: ensemble
   title: "Projection Ensemble: Visualizing the Robust Structures of Multidimensional Projections"
@@ -390,6 +424,7 @@
     - international
     - paper
   type: Paper
+  code: https://github.com/skku-idclab/ProjectionEnsemble
 
 - id: zadu
   title: "ZADU: A Python Library for Evaluating the Reliability of Dimensionality Reduction Embeddings"
@@ -413,6 +448,7 @@
     - international
     - paper
   type: Paper
+  code: https://github.com/hj-n/zadu
 
 - id: ltgm
   title: "Large-scale Text-to-Image Generation Models for Visual Artists' Creative Works"
@@ -460,6 +496,7 @@
     - paper
   type: Paper
   index: 1
+  code: https://github.com/Ideas-Laboratory/SizePairs
 
 - id: intentable
   title: "Intentable: A Mixed-Initiative System for Intent-Based Chart Captioning"
@@ -477,6 +514,7 @@
     - international
     - paper
   type: Paper
+  code: https://github.com/skku-idclab/Intentable
 
 - id: umato
   title: "Uniform Manifold Approximation with Two-phase Optimization"
@@ -616,7 +654,9 @@
     - journal
     - paper
   type: Paper
-  selected: true
+  # pdf: /assets/ProReveal.pdf
+  # code: https://github.com/proreveal/ProReveal
+  # video: https://www.youtube.com/watch?v=RuIGrVyhciM
 
 - id: intellicat
   title: "IntelliCAT: Intelligent Machine Translation Post-Editing with Quality Estimation and Translation Suggestion"
@@ -696,6 +736,8 @@
     - international
     - paper
   type: Paper
+  pdf: /assets/PUMAP.pdf
+  code: https://github.com/hyungkwonko/progressive-umap
 
 - id: dissertation
   title: "Designing Progressive Visualization Systems for Exploring Large-scale Data"
@@ -710,6 +752,7 @@
     - paper
     - international
   type: Paper
+  pdf: /assets/Jaemin_Jo_Dissertation.pdf
 
 - id: disentangling
   title: "Disentangled Representation of Data Distributions in Scatterplots"
@@ -727,7 +770,8 @@
     - international
     - paper
   type: Paper
-  selected: true
+  pdf: /assets/Disentangled_Representation_of_Data_Distributions_in_Scatterplots.pdf
+  code: https://github.com/e-/Disentangling-Scatterplots
 
 - id: autotator
   title: "Autotator: Semi-Automatic Approach for Accelerating the Chart Image Annotation Process"
@@ -747,6 +791,9 @@
     - conference
     - demo
   type: Demo
+  pdf: /assets/Autotator.pdf
+  code: https://github.com/SoundGlance/SoundGlance
+  video: https://youtu.be/SE9rNYoa2ls
 
 - id: soundglance
   title: "SoundGlance: Briefing the Glanceable Cues of Web Pages for Screen Reader Users"
@@ -767,6 +814,8 @@
     - conference
     - poster
   type: Poster
+  pdf: /assets/SoundGlance.pdf
+  code: https://github.com/SoundGlance/SoundGlance
 
 - id: panene
   title: "PANENE: A Progressive Algorithm for Indexing and Querying Approximate k-Nearest Neighbors"
@@ -788,7 +837,8 @@
     - journal
     - paper
   type: Paper
-  selected: true
+  pdf: https://ieeexplore.ieee.org/document/8462793
+  code: https://github.com/e-/PANENE
 
 - id: mdm
   title: "A Declarative Rendering Model for Multiclass Density Maps"
@@ -811,7 +861,12 @@
     - journal
     - paper
   type: Paper
-  selected: true
+  pdf: /assets/Multiclass_Density_Maps.pdf
+  demo: https://jaeminjo.github.io/Multiclass-Density-Maps/
+  code: https://github.com/e-/Multiclass-Density-Maps
+  recording: https://vimeo.com/299850886
+  video_short: https://vimeo.com/289785026
+  npm: https://www.npmjs.com/package/multiclass-density-maps
 
 - id: patentselection
   title: "Improving User Interaction with Multi-Finger Touch Gestures in Text Selection for Touch Input Devices"
@@ -847,6 +902,7 @@
     - journal
     - paper
   type: Paper
+  pdf: https://www.sciencedirect.com/science/article/pii/S2468502X18300159
 
 - id: shouldersurfing
   title: "Towards a Broader Understanding of Shoulder-surfing Problems"
@@ -888,7 +944,11 @@
     - conference
     - paper
   type: Paper
-  selected: true
+  lib: https://dl.acm.org/citation.cfm?id=3025752
+  pdf: /assets/TouchPivot.pdf
+  video_short: https://www.youtube.com/watch?v=0hdiF9fCgFE
+  video: https://www.youtube.com/watch?v=Q6quofDiO7I
+  recording: https://www.youtube.com/watch?v=wpksrVF5MNw
 
 - id: swifttuna
   title: "SwiftTuna: Responsive and Incremental Visual Exploration of Large-scale Multidimensional Data"
@@ -911,6 +971,8 @@
     - conference
     - paper
   type: Paper
+  pdf: /assets/SwiftTuna.pdf
+  video: https://www.youtube.com/watch?v=NEakQy_ZhhI
 
 - id: cloakingnote
   title: "CloakingNote: A Novel Desktop Interface for Subtle Writing Using Decoy Texts"
@@ -933,6 +995,9 @@
     - conference
     - paper
   type: Paper
+  pdf: /assets/CloakingNote.pdf
+  demo: https://chrome.google.com/webstore/detail/cloakingvideo-watch-youtu/eledmaedpclngopnlgnacehkpkpfpbcj
+  video_short: https://www.youtube.com/watch?v=DqDvDoIwKEU
 
 - id: eyebookmark
   title: "EyeBookmark: Assisting Recovery from Interruption during Reading"
@@ -953,6 +1018,8 @@
     - conference
     - paper
   type: Paper
+  pdf: /assets/EyeBookmark.pdf
+  video_short: https://www.youtube.com/watch?v=YQ4YQEbA2dw
 
 
 - id: wordleplus
@@ -974,6 +1041,8 @@
     - journal
     - paper
   type: Paper
+  pdf: /assets/WordlePlus.pdf
+  video: https://vimeo.com/146855580
 
 - id: radiology
   title: "Development of an Online Radiology Case Review System Featuring Interactive Navigation of Volumetric Image Datasets Using Advanced Visualization Techniques"
@@ -999,6 +1068,8 @@
     - journal
     - paper
   type: Paper
+  video_short: https://www.youtube.com/watch?v=XeySxym3eOM
+  link: http://www.locat.org/locat_training
 
 - id: adaptive
   title: "Adaptive Zoom-based Gaze Tracking for Enhanced Accuracy and Precision"
@@ -1042,6 +1113,11 @@
     - journal
     - paper
   type: Paper
+  pdf: /assets/LiveGantt.pdf
+  video: https://www.youtube.com/watch?v=f7KepgS-938
+  video_short: https://www.youtube.com/watch?v=fZFv2dxgJ90
+  demo: https://e-.github.io/LiveGantt-full-demo/
+  code: https://github.com/e-/LiveGantt-full-demo
 
 - id: patentobject
   title: "Improving User Interaction with In-document Objects in Text Editing Scenarios for Mobile Touch Input Devices"
@@ -1077,6 +1153,8 @@
     - paper
   url: https://hal.inria.fr/hal-01650272/
   type: Paper
+  pdf: /assets/Progressive_KD_Tree.pdf
+  code: https://github.com/e-/PANENE
 
 - id: swifttunaposter
   title: "Incrementally Exploring Large-scale Multidimensional Data"
@@ -1098,6 +1176,9 @@
     - conference
     - poster
   type: Poster
+  pdf: /assets/SwiftTuna_poster_submission.pdf
+  poster: /assets/SwiftTuna_poster.pdf
+  video: https://www.youtube.com/watch?v=NEakQy_ZhhI
 
 - id: eeg
   title: "A Usability Testing Method Using EEG, EDA, BVP Biosignals"
@@ -1137,3 +1218,92 @@
     - conference
     - poster
   type: Poster
+  demo: https://e-.github.io/MultiMap/
+  code: https://github.com/e-/MultiMap
+
+
+# Personal projects without a publication (from the director's personal site; not shown)
+
+# - id: touchwordle
+#   name: Wordle on Tabletop
+#   teaser: /images/TouchWordle.png
+#   video: https://www.youtube.com/watch?v=JS07EKOiex0
+#   desc: Creating and editing Wordles on tabletops. Exhibited in a local art gallery.
+
+# - id: hanguljs
+#   name: Hangul.js
+#   teaser: /images/hanguljs.png
+#   desc: Assemble/disassemble Hangul (Korean alpahbets) with ease.
+#   code: https://github.com/e-/Hangul.js
+#   npm: https://www.npmjs.com/package/hangul-js
+#   demo: https://e-.github.io/Hangul.js/examples/
+
+# - id: atari2600
+#   name: Atari2600
+#   code: https://github.com/e-/Atari2600
+#   desc: A JavaSciprt porting of an Atari2600 emulator
+#   demo: http://e-.github.io/Atari2600/
+#   teaser: /images/Atari2600.png
+
+# - id: josajs
+#   name: Josa.js
+#   teaser: /images/josajs.png
+#   code: https://github.com/e-/Josa.js
+#   desc: A small JavaScript library for matching Korean postpositions.
+#   npm: https://www.npmjs.com/package/josa-js
+
+# - id: scatterplotanime
+#   name: ScatterplotAnime
+#   desc: Measuring the performance of five scatterplot animation techniques on the Web.
+#   code: https://github.com/e-/ScatterplotAnime
+#   demo: https://e-.github.io/ScatterplotAnime/
+#   teaser: /images/ScatterplotAnime.png
+
+# - id: nmapjs
+#   name: Nmap.js
+#   desc: 'A JavaScript implementation of "Nmap: A Novel Neighborhood Preservation Space-filling Algorithm".'
+#   code: https://github.com/e-/Nmap.js
+#   teaser: /images/Nmapjs.png
+
+# - id: painting
+#   teaser: /images/Ink_and_wash.jpg
+#   name: Ink-and-Wash Painting
+#   desc: Simulating brush strokes in ink-and-wash paintings.
+
+# - id: treecolorjs
+#   name: TreeColors.js
+#   npm: https://www.npmjs.com/package/treecolors
+#   desc: 'A JavaScript implementation of "TreeColors: Color Schemes for Tree-Structured Data".'
+#   demo: http://e-.github.io/TreeColors.js/demo
+#   code: https://github.com/e-/TreeColors.js
+#   teaser: /images/TreeColorsjs.png
+
+# - id: hsijs
+#   name: hsi.js
+#   code: https://github.com/e-/hsi.js
+#   desc: A micro JavaScript library for conversion between RGB and HSI color spaces.
+#   teaser: /images/hsijs.png
+
+# - id: sliduino
+#   name: Sliduino
+#   teaser: /images/Sliduino.jpg
+#   desc: A mobile prototype for controlling presentation slides
+
+# - id: opticsjs
+#   name: optics.js
+#   desc: optics.js is an open source JavaScript implemenation of the OPTICS clustering algorithm on Web browsers and node.js.
+#   code: https://github.com/e-/optics.js
+#   demo: http://e-.github.io/optics.js/demo/
+#   teaser: /images/opticsjs.png
+
+# - id: MulticoreComputing
+#   name: Multicore Examples
+#   teaser: /images/Multicore_Examples.png
+#   desc: Code snippets of multicore computation.
+#   code: https://github.com/e-/MulticoreComputing
+
+# - id: columnDB
+#   name: ColumnDB
+#   code: https://github.com/e-/ColumnDB
+#   teaser: /images/ColumnDB.png
+#   desc: A super-simple columnar database.

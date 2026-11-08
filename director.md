@@ -72,6 +72,7 @@ hide_title: true
 <div class="cv-item">
   <div class="cv-row"><span><strong>{{ e.degree }}</strong>, <a href="{{ e.url }}" target="_blank">{{ e.org }}</a></span><span class="cv-date">{{ e.period }}</span></div>
   {% for d in e.details %}<div class="calm cv-detail">{{ d }}</div>{% endfor %}
+  {% if e.dissertation %}{% assign diss = site.data.publications | where: "id", e.dissertation | first %}<div class="calm cv-detail">Dissertation: <a href="{{ diss.url }}" target="_blank">{{ diss.title }}</a></div>{% endif %}
 </div>
 {% endfor %}
 </div>
