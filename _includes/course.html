@@ -1,0 +1,27 @@
+<div class="course">
+  <h3>{{ include.c.title }} <small>({{ include.c.target }})</small></h3>
+  <ul class="course-years">
+    {% for year in include.c.years %}<li>{{ year }}</li>{% endfor %}
+  </ul>
+  <p>{{ include.c.desc }}</p>
+
+  <details class="course-schedule-toggle">
+    <summary>What will you learn? <span class="toggle-arrow">→</span></summary>
+    <table class="course-schedule">
+      <thead>
+        <tr><th class="week">Week</th><th>Lecture</th><th>Lab</th></tr>
+      </thead>
+      <tbody>
+        {% if include.c.schedule %}
+        {% for s in include.c.schedule %}
+        <tr><td class="week">{{ s.week }}</td>{% if s.lecture == "" %}<td colspan="2" class="merged">{{ s.lab }}</td>{% else %}<td>{{ s.lecture }}{% if s.lecture_kw != "" and s.lecture_kw %}<div class="kw">{{ s.lecture_kw }}</div>{% endif %}</td><td>{{ s.lab }}{% if s.lab_kw != "" and s.lab_kw %}<div class="kw">{{ s.lab_kw }}</div>{% endif %}</td>{% endif %}</tr>
+        {% endfor %}
+        {% else %}
+        {% for w in (1..16) %}
+        <tr><td class="week">{{ w }}</td><td></td><td></td></tr>
+        {% endfor %}
+        {% endif %}
+      </tbody>
+    </table>
+  </details>
+</div>

@@ -2,18 +2,6 @@
     
 
 
-- title: Introduction to Human-Computer Interaction (HCI)
-  target: Undergraduate
-  desc: "This course provides an introduction to and overview of the field of human-computer interaction (HCI). We learn to design, prototype, and evaluate user interfaces for computers upon the theories and methodologies from computer science, cognitive psychology, and human factors. Course materials include classic and recent research papers in HCI. We cover the following topics: human factors, usability, design thinking process, design principles, and experimental design."
-  years:
-    - 2026 Fall
-    - 2025 Fall    
-    - 2024 Fall
-    - 2023 Fall
-    - 2022 Fall
-    - 2021 Fall
-    
-
 - title: Information Visualization (InfoVis)
   target: Undergraduate and Graduate
   desc: With the advances in data storing and processing technologies, the size of data humans confront is increasing at an unprecedented rate. Despite the ever-increasing data size, our perceptual and cognitive abilities stay relatively unchanged, leading to an information gap between humans and data. Information visualization provides one means of addressing such information overload, as well-designed visual representations can assist our perceptual and cognitive abilities to understand, analyze, and memorize the data. In this course, students will learn to 1) design, evaluate, and critique visualization designs, 2) comprehend the characteristics of humans' perception that underpin visualization, 3) understand novel visualization and interaction techniques, and 4) implement interactive data visualizations.
@@ -25,7 +13,51 @@
     - 2023 Spring    
     - 2022 Spring
     - 2021 Spring
-    
+  schedule:
+    - { week: 1, lecture: "The VIS Landscape", lecture_kw: "6-area model, Vis tools from spreadsheets to D3, Working with AI", lab: "Course Overview", lab_kw: "Course logistics, Term project, Research at our lab" }
+    - { week: 2, lecture: "Definition and Justification", lecture_kw: "Definitions of InfoVis, Why visualize, What-why-how framework", lab: "Tableau", lab_kw: "Building views, Derived data, Small multiples, View linking" }
+    - { week: 3, lecture: "Marks and Channels", lecture_kw: "Channel effectiveness, Preattentive processing, Gestalt laws", lab: "Vega and Vega-Lite", lab_kw: "Grammar of graphics, Encodings, Transforms, Faceted views" }
+    - { week: 4, lecture: "Colors", lecture_kw: "Color vision, Color spaces, Colormaps, Color deficiency", lab: "Dimensionality Reduction (1)", lab_kw: "Rank and eigenvectors, PCA, SNE and t-SNE" }
+    - { week: 5, lecture: "Data and Task Abstraction", lecture_kw: "Dataset and attribute types, Actions and targets, Deriving data", lab: "Dimensionality Reduction (2)", lab_kw: "Barnes-Hut t-SNE, UMAP, Interpreting projections, Quality metrics" }
+    - { week: 6, lecture: "Visualizing Tables", lecture_kw: "Scatterplots, Bar and line charts, Heatmaps, Parallel coordinates, etc.", lab: "D3.js (1)", lab_kw: "HTML and SVG, Selections, Data join, Animated transitions" }
+    - { week: 7, lecture: "Visualizing Graphs", lecture_kw: "Node-link diagrams, Force-directed layout, Adjacency matrices, Treemaps, etc.", lab: "D3.js (2)", lab_kw: "Scales and axes, Legends, Modular views, Brushing and linking" }
+    - { week: 8, lecture: "", lecture_kw: "", lab: "Midterm Exam", lab_kw: "" }
+    - { week: 9, lecture: "Human Factors", lecture_kw: "Visual biases, Memory limits, Fitts's law, KLM", lab: "Project Proposal Presentation", lab_kw: "Overviews, Information density, Visual hierarchy, Scalability" }
+    - { week: 10, lecture: "Interaction", lecture_kw: "Animated transitions, Coordinated views, Filtering, Aggregation", lab: "Papers: VIS + AI (1)", lab_kw: "" }
+    - { week: 11, lecture: "Novel Visualization Idioms", lecture_kw: "Sets, Uncertainty, Event sequences, Dense data, Immersive vis", lab: "Papers: VIS + AI (2)", lab_kw: "" }
+    - { week: 12, lecture: "Scalability", lecture_kw: "Precomputation, Sampling, Prefetching, Progressive visual analytics", lab: "Papers: VIS + X", lab_kw: "" }
+    - { week: 13, lecture: "Validation and Evaluation", lecture_kw: "Four levels of vis design, Threats to validity, Experimental design", lab: "Papers: VIS + Human", lab_kw: "" }
+    - { week: 14, lecture: "Rules of Thumb and VIS-AI Heuristics", lecture_kw: "No unjustified 3D, Overview first, Show uncertainty, No unjustified AI", lab: "Project Presentations", lab_kw: "" }
+    - { week: 15, lecture: "", lecture_kw: "", lab: "Final Exam", lab_kw: "" }
+    - { week: 16, lecture: "Writing and Reviewing VIS Papers", lecture_kw: "Contribution types, Paper structure, Course review", lab: "Q&A", lab_kw: "" }
+
+- title: Introduction to Human-Computer Interaction (HCI)
+  target: Undergraduate
+  desc: "This course provides an introduction to and overview of the field of human-computer interaction (HCI). We learn to design, prototype, and evaluate user interfaces for computers upon the theories and methodologies from computer science, cognitive psychology, and human factors. Course materials include classic and recent research papers in HCI. We cover the following topics: human factors, usability, design thinking process, design principles, and experimental design."
+  years:
+    - 2026 Fall
+    - 2025 Fall    
+    - 2024 Fall
+    - 2023 Fall
+    - 2022 Fall
+    - 2021 Fall
+  schedule:
+    - { week: 1, lecture: "Introduction", lecture_kw: "Scope of HCI, Good vs bad design, Fitts's law preview", lab: "Course Overview", lab_kw: "Course logistics, Design project" }
+    - { week: 2, lecture: "Definition and History", lecture_kw: "Usability and UX goals, History of HCI, Direct manipulation", lab: "5 Chairs Design Challenge", lab_kw: "Icebreaking, Designing for a specific user" }
+    - { week: 3, lecture: "Human Factors", lecture_kw: "Sensors and responders, Perception, Memory, Human errors", lab: "Mini-Design Project (1)", lab_kw: "Point of view, How might we questions" }
+    - { week: 4, lecture: "Design Thinking Process", lecture_kw: "Five-stage process, Interviews, Contextual inquiry, Task analysis", lab: "Mini-Design Project (2)", lab_kw: "Brainstorming rules, Generating many ideas" }
+    - { week: 5, lecture: "Interaction Elements and Human Models", lecture_kw: "Control-display mapping, Affordances, Mental models, Norman's gulfs", lab: "Design Project Kickoff", lab_kw: "Finding a theme, Past projects, Team formation" }
+    - { week: 6, lecture: "Ideation and Prototyping", lecture_kw: "Personas, Storyboards, Brainstorming, Lo-fi to hi-fi prototypes", lab: "Empathize", lab_kw: "Interviews, Observation" }
+    - { week: 7, lecture: "Model Human Processor", lecture_kw: "Three processors, Perceptual fusion, Working memory, Chunking", lab: "Define", lab_kw: "Qualitative coding, Point of view, Personas, Storyboarding" }
+    - { week: 8, lecture: "", lecture_kw: "", lab: "Midterm Exam", lab_kw: "" }
+    - { week: 9, lecture: "Modeling Interaction", lecture_kw: "Descriptive vs predictive models, Fitts's law, Hick-Hyman law, KLM", lab: "Ideate", lab_kw: "Brainstorming, Why prototype, User feedback tips" }
+    - { week: 10, lecture: "Design Heuristics and Principles", lecture_kw: "Gestalt laws, Cognitive walkthrough, Nielsen's heuristics", lab: "Lo-fi Prototyping", lab_kw: "Paper prototypes, Feedback" }
+    - { week: 11, lecture: "Experimental Design", lecture_kw: "Variables, Validity, Within vs between subjects, Pilot studies", lab: "Mid-fi Prototyping", lab_kw: "Clickable wireframes, Transitions and links" }
+    - { week: 12, lecture: "Hypothesis Testing", lecture_kw: "T-tests, ANOVA, Chi-square test, Think-aloud, Wizard of Oz", lab: "Experimental Design", lab_kw: "Planning a user study, Final report" }
+    - { week: 13, lecture: "Human-AI Interaction", lecture_kw: "Why AI UX is different, Microsoft's human-AI guidelines", lab: "User Testing", lab_kw: "Running user tests, Reporting results" }
+    - { week: 14, lecture: "Human-Data Interaction", lecture_kw: "Data analysis tasks, Visual perception, Visual encoding, Color", lab: "Project Presentations (1)", lab_kw: "" }
+    - { week: 15, lecture: "Let's Read Together", lecture_kw: "Reading HCI papers, User study design, Choosing baselines", lab: "Project Presentations (2)", lab_kw: "" }
+    - { week: 16, lecture: "", lecture_kw: "", lab: "Final Exam", lab_kw: "" }
 
 - title: Fundamentals of Machine Learning
   target: Undergraduate
@@ -35,9 +67,24 @@
     - 2025 Fall    
     - 2025 Spring
     - 2024 Fall
-    
+  schedule:
+    - { week: 1, lecture: "Machine Learning Basics", lecture_kw: "Training and testing, Loss functions, Gradient descent, Convexity", lab: "Course Overview", lab_kw: "Course logistics" }
+    - { week: 2, lecture: "Linear Regression", lecture_kw: "Normal equation, Mini-batch SGD, Learning rates, Basis functions", lab: "Vector Derivatives", lab_kw: "Vector derivatives, Unconstrained and constrained optimization" }
+    - { week: 3, lecture: "Probability", lecture_kw: "Axioms, Conditional probability, Bayes' theorem, Random variables", lab: "k-Nearest Neighbors", lab_kw: "Kernel regression, Distance measures, Parametric vs non-parametric" }
+    - { week: 4, lecture: "Information Theory", lecture_kw: "Entropy, Cross-entropy, KL divergence, MLE and MAP", lab: "Convex Optimization", lab_kw: "Deriving the normal equation, Convex optimization" }
+    - { week: 5, lecture: "Logistic Regression", lecture_kw: "Sigmoid and odds, Cross-entropy loss, Softmax regression", lab: "Bias-Variance Tradeoff", lab_kw: "True vs empirical risk, Bias-variance-noise decomposition" }
+    - { week: 6, lecture: "Training and Evaluation", lecture_kw: "Overfitting, Regularization, Cross-validation, Precision and recall", lab: "Chain Rule", lab_kw: "Numerical differentiation, Gradients of composite functions" }
+    - { week: 7, lecture: "Decision Trees", lecture_kw: "Information gain, ID3 and C4.5, CART, Overfitting", lab: "Midterm Review", lab_kw: "Bias and variance, Softmax regression, Evaluation metrics" }
+    - { week: 8, lecture: "", lecture_kw: "", lab: "Midterm Exam", lab_kw: "" }
+    - { week: 9, lecture: "Ensemble Methods", lecture_kw: "Bias-variance tradeoff, Bagging, Random forests, AdaBoost", lab: "Manifold and Feature Learning", lab_kw: "High-dimensional data, Manifold hypothesis" }
+    - { week: 10, lecture: "Neural Networks", lecture_kw: "Perceptron, XOR and MLP, Deep neural networks, Backpropagation", lab: "Dimensionality Reduction", lab_kw: "Curse of dimensionality, PCA, t-SNE" }
+    - { week: 11, lecture: "Clustering (1)", lecture_kw: "K-means, Gaussian mixture models, EM algorithm", lab: "Backpropagation", lab_kw: "Forward and backward passes, Error backpropagation, XOR example" }
+    - { week: 12, lecture: "Clustering (2)", lecture_kw: "Hierarchical clustering, Dendrograms, DBSCAN", lab: "Proofs on Bagging and AdaBoost", lab_kw: "Variance of bagging, Deriving AdaBoost weights" }
+    - { week: 13, lecture: "Support Vector Machine", lecture_kw: "Lagrange duality, Maximum margin, Soft margin, Kernel trick", lab: "Implementing Softmax Regression", lab_kw: "Softmax regression from scratch, Implementation pitfalls" }
+    - { week: 14, lecture: "Interpretable Machine Learning", lecture_kw: "Interpretable models, PDP, Permutation importance, LIME, SHAP", lab: "Support Vector Machine, Step by Step", lab_kw: "Soft-margin SVM, Lagrangian and dual problem, Kernels" }
+    - { week: 15, lecture: "", lecture_kw: "", lab: "Final Exam", lab_kw: "" }
+    - { week: 16, lecture: "", lecture_kw: "", lab: "Course Wrap-up and Q&A", lab_kw: "" }
 
-    
 - title: Problem Solving
   target: Undergraduate
   desc: The objective of this course is to develop problem-solving skills using the C programming language. We will first cover the important concepts in the C programming language from the very basic syntax to its advanced usages. We will practice C programming skills by solving problems from real-world programming challenges. Having background knowledge about programming is recommended but not necessary. We will focus on practicing and improving your programming skills rather than learning complex algorithms.
@@ -49,12 +96,21 @@
     - 2022 Spring, Fall
     - 2021 Fall
     - 2020 Fall
-    
-- title: Open-Source Software Practice
-  target: Undergraduate
-  desc: Open-source software has become an inevitable tech trend in software development. Even big IT companies, such as Microsoft, Google, Amazon, or Facebook, are actively participating in open-source projects, making their codes public and maintained by the open-source community.There are rules, technologies, tools, and cultures that young programmers must know before entering the open-source world. However, these topics are rarely covered in university classes and are usually left to students to figure out on their own. In this class, we will learn and practice such prerequisites for software engineers.
-  years:
-    - 2021 Spring
-    - 2021 Fall
-  past: true
+  schedule:
+    - { week: 1, lecture: "Introduction", lecture_kw: "What PS is, How online judges grade code, Time and space complexity", lab: "Course Overview", lab_kw: "Development environment, Online judge" }
+    - { week: 2, lecture: "Variables, Operators, and Control Flow", lecture_kw: "Bits and bytes, C types and operators, Overflow, Control flow", lab: "Coding Challenges (1)", lab_kw: "LeetCode 263 (Easy), 70 (Easy), 172 (Medium), 204 (Medium)" }
+    - { week: 3, lecture: "Arrays and Functions", lecture_kw: "Variable scope, 1D and 2D arrays, Writing functions, Call by value vs reference", lab: "Coding Challenges (2)", lab_kw: "LeetCode 283 (Easy), 136 (Easy), 53 (Medium), 169 (Easy)" }
+    - { week: 4, lecture: "I/O, Strings, and Structures", lecture_kw: "Formatted I/O, ASCII and Unicode, C strings, Structures", lab: "Coding Challenges (3)", lab_kw: "LeetCode 13 (Easy), 171 (Easy), 3 (Medium), 28 (Easy)" }
+    - { week: 5, lecture: "Pointers", lecture_kw: "Memory addresses, Pointer arithmetic, Function pointers", lab: "Coding Challenges (4)", lab_kw: "LeetCode 134 (Medium), 402 (Medium), 41 (Hard), 214 (Hard)" }
+    - { week: 6, lecture: "Dynamic Memory Allocation", lecture_kw: "Heap allocation, Memory leaks, 2's complement, Bitwise tricks", lab: "Coding Challenges (5)", lab_kw: "LeetCode 2 (Medium), 19 (Medium), 209 (Medium)" }
+    - { week: 7, lecture: "Two Pointers", lecture_kw: "Competition strategy, Two-pointer technique, Proof by contradiction", lab: "Coding Challenges (6)", lab_kw: "LeetCode 845 (Medium), 1793 (Hard), 84 (Hard), 1712 (Medium)" }
+    - { week: 8, lecture: "Recursion", lecture_kw: "Recursive thinking, Backtracking, Memoization, Pruning the search space", lab: "Coding Challenges (7)", lab_kw: "LeetCode 1823 (Medium), 1863 (Easy), 1079 (Medium), 1444 (Hard)" }
+    - { week: 9, lecture: "", lecture_kw: "", lab: "Midterm Exam", lab_kw: "" }
+    - { week: 10, lecture: "Stack, Queue, and Priority Queue", lecture_kw: "Array-based stacks and queues, Heaps, Classic problems", lab: "Coding Challenges (8)", lab_kw: "LeetCode 264 (Medium), 295 (Hard), 1851 (Hard)" }
+    - { week: 11, lecture: "Sorting", lecture_kw: "O(n log n) sorts, Counting sort, Sorting as preprocessing", lab: "Coding Challenges (9)", lab_kw: "LeetCode 215 (Medium), 2406 (Medium), 1353 (Medium)" }
+    - { week: 12, lecture: "Binary Search", lecture_kw: "Lower and upper bounds, Off-by-one errors, Search on the answer", lab: "Coding Challenges (10)", lab_kw: "LeetCode 275 (Medium), 33 (Medium), 4 (Hard)" }
+    - { week: 13, lecture: "Graph, DFS, and BFS", lecture_kw: "Adjacency matrix vs list, DFS and BFS, Flood fill and mazes", lab: "Coding Challenges (11)", lab_kw: "LeetCode 207 (Medium), 841 (Medium), 329 (Hard)" }
+    - { week: 14, lecture: "Dynamic Programming (1)", lecture_kw: "Spotting DP problems, Defining states and recurrences, Fibonacci and LIS", lab: "Coding Challenges (12)", lab_kw: "LeetCode 279 (Medium), 416 (Medium), 516 (Medium)" }
+    - { week: 15, lecture: "Dynamic Programming (2)", lecture_kw: "Sequence DP with LCS and edit distance, Interval DP, Course review", lab: "Coding Challenges (13)", lab_kw: "LeetCode 805 (Hard), 2218 (Hard), 304 (Medium)" }
+    - { week: 16, lecture: "", lecture_kw: "", lab: "Final Exam", lab_kw: "" }
 
