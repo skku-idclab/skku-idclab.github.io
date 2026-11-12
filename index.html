@@ -12,12 +12,9 @@ order: 0
     The ever-increasing size and complexity of data now challenge our perceptual and cognitive abilities, making modern
     datasets and AI models difficult to interpret without computational and visual support.
 
-    Our research addresses this challenge by studying interactive visualization systems, drawing from the fields of
-    Information Visualization and Human–Computer Interaction.
-
-    We aim to help users explore, understand, and reason about complex data and models by tightly integrating
-    computational
-    methods with human-centered visual interfaces.
+    Our research addresses this challenge by building interactive visualization systems that tightly integrate
+    human-centered interfaces with the algorithms and infrastructure that power them, helping users understand,
+    interrogate, and refine such datasets and AI models.
   </p>
   <p>
     Check out our open-source projects and research prototypes at
@@ -25,12 +22,12 @@ order: 0
   </p>
   <p class="ad mt-1">
     We are seeking motivated senior undergraduates who are developing their own research projects and plan to join our
-    graduate program. If you are interested in Human–Data Interaction, Human–AI Interaction, High-Dimensional Data
-    Visualization, or Progressive Visual Analytics, please contact Prof. Jaemin Jo at <a
+    graduate program. If you are interested in Human–AI Interaction, High-Dimensional Data Visualization, or
+    Progressive Visual Analytics, please contact Prof. Jaemin Jo at <a
       href="mailto:jmjo@skku.edu">jmjo@skku.edu</a>.
   </p>
   <p class="ad mt-1">
-    독자적인 연구를 수행하면서 대학원 진학을 희망하는 학부 연구생을 모집하고 있습니다. 인간-데이터 상호작용, 인간-인공지능 상호작용, 고차원 데이터 시각화, 점진적 시각적 분석에 관심이 있는 학생들은 조재민
+    독자적인 연구를 수행하면서 대학원 진학을 희망하는 학부 연구생을 모집하고 있습니다. 인간-인공지능 상호작용, 고차원 데이터 시각화, 점진적 시각적 분석에 관심이 있는 학생들은 조재민
     교수 <a href="mailto:jmjo@skku.edu">jmjo@skku.edu
     </a>로 연락 바랍니다.
   </p>
@@ -45,7 +42,7 @@ order: 0
 <h2 class="mt-8">Selected Projects</h2>
 
 <section id="projects">
-  {% assign selected_projects = site.data.projects | where_exp: "item",
+  {% assign selected_projects = site.data.publications | where_exp: "item",
   "item.selected" %} {% for proj in selected_projects %} {% include project.html
   proj=proj %} {% endfor %}
 </section>

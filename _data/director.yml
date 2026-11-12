@@ -4,7 +4,7 @@ research:
     topics:
       - name: Visual Analytics for and with AI
         papers:
-          - { id: uds, label: EMNLP 26 Oral }
+          - { id: uds, label: EMNLP 26 }
           - { id: hypocketuner, label: CHI 26 }
           - { id: unlearncomparator, label: TVCG 26 }
           - { id: symetra, label: EuroVis 26 }
@@ -41,24 +41,24 @@ research:
 positions:
   - title: Associate Professor
     org: Sungkyunkwan University
-    url: https://www.skku.edu/
+    url: https://www.skku.edu/eng/
     period: Sep 2024 – Present
   - title: Assistant Professor
     org: Sungkyunkwan University
-    url: https://www.skku.edu/
+    url: https://www.skku.edu/eng/
     period: Sep 2020 – Aug 2024
 
 education:
   - degree: Ph.D. in Computer Science and Engineering
     org: Seoul National University
-    url: https://www.snu.ac.kr/
+    url: https://en.snu.ac.kr/
     period: Mar 2014 – Feb 2020
     details:
       - "Advisor: Prof. Jinwook Seo"
-      - "Dissertation: Designing Progressive Visualization Systems for Exploring Large-scale Data"
+    dissertation: dissertation  # id in publications.yml
   - degree: B.S. in Computer Science and Engineering
     org: Seoul National University
-    url: https://www.snu.ac.kr/
+    url: https://en.snu.ac.kr/
     period: Mar 2009 – Feb 2014
     details:
       - Graduated with honors (Summa Cum Laude)

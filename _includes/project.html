@@ -1,5 +1,5 @@
 <div class="project">
-    <h3>{{ proj.title }}</h3>
+    <h3>{{ proj.name | default: proj.title }}</h3>
     <div class="teaser" style="background-image: url({{ proj.teaser}})">
     </div>
     <p>
