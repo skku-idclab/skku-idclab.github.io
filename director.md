@@ -95,6 +95,18 @@ hide_title: true
 </div>
 
 <div class="cv-section">
+<h3 class="cv-heading">Services</h3>
+<div class="cv-list">
+{% for s in cv.services %}
+<div class="cv-item">
+  <div class="cv-row"><strong>{{ s.title }}</strong><span class="cv-date">{{ s.date }}</span></div>
+  <div class="calm cv-detail">{{ s.detail }}</div>
+</div>
+{% endfor %}
+</div>
+</div>
+
+<div class="cv-section">
 <h3 class="cv-heading">Honors &amp; Awards</h3>
 <div class="cv-list">
 {% for a in cv.awards %}

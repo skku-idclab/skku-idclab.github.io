@@ -63,6 +63,20 @@ education:
     details:
       - Graduated with honors (Summa Cum Laude)
 
+services:
+  - title: VisNotes (Short Papers) Chair
+    detail: IEEE Pacific Visualization Conference (PacificVis) 2027, Busan, Korea
+    date: Apr 2027
+  - title: Poster Chair
+    detail: IEEE Pacific Visualization Conference (PacificVis) 2026, Sydney, Australia
+    date: Apr 2026
+  - title: Poster Chair
+    detail: IEEE Pacific Visualization Conference (PacificVis) 2025, Taipei, Taiwan
+    date: Apr 2025
+  - title: Demo Chair
+    detail: ACM International Conference on Interactive Surfaces and Spaces (ISS) 2019, Daejeon, Korea
+    date: Nov 2019
+
 awards:
   - title: Best Poster Honorable Mention, IEEE VIS 2026
     detail: "for “PyProgressive: A Lightweight Library for Progressive Computations”"
@@ -70,6 +84,3 @@ awards:
   - title: SKKU Teaching Award
     detail: Sungkyunkwan University
     date: "2026"
-  - title: Outstanding Dissertation Award
-    detail: Department of Computer Science and Engineering, Seoul National University
-    date: Feb 2020
